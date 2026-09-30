@@ -1,1749 +1,1765 @@
 [
- {
-  "id": "pmA01",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "If 4x + 3 = 19, what is the value of x?",
-  "choices": [
-   "4",
-   "5",
-   "6",
-   "16"
-  ],
-  "answer": "A",
-  "explanation": "Subtract 3 from both sides: 4x = 16. Divide by 4: x = 4."
- },
- {
-  "id": "pmA02",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "A line has slope 2 and passes through (1, 3). What is its equation in slope-intercept form?",
-  "choices": [
-   "y = 2x + 1",
-   "y = 2x + 3",
-   "y = 2x − 1",
-   "y = 2x + 2"
-  ],
-  "answer": "A",
-  "explanation": "y = mx + b. Plug in (1, 3): 3 = 2(1) + b → b = 1. So y = 2x + 1."
- },
- {
-  "id": "pmA03",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "If 2x + 3y = 12 and x − y = 1, what is the value of x + y?",
-  "choices": [
-   "3",
-   "4",
-   "5",
-   "6"
-  ],
-  "answer": "C",
-  "explanation": "From x − y = 1, x = y + 1. Substitute: 2(y+1) + 3y = 12 → 5y = 10 → y = 2, x = 3. So x + y = 5."
- },
- {
-  "id": "pmA04",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "For what values of x is 3x − 5 ≥ 7?",
-  "choices": [
-   "x ≥ 4",
-   "x ≤ 4",
-   "x ≥ 2",
-   "x ≤ 12"
-  ],
-  "answer": "A",
-  "explanation": "Add 5: 3x ≥ 12. Divide by 3 (positive — no flip): x ≥ 4."
- },
- {
-  "id": "pmA05",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "A taxi charges a $3 initial fee plus $2.50 per mile. If a ride costs $18 total, how many miles was the ride?",
-  "choices": [
-   "5",
-   "6",
-   "7",
-   "7.5"
-  ],
-  "answer": "B",
-  "explanation": "3 + 2.5m = 18 → 2.5m = 15 → m = 6."
- },
- {
-  "id": "pmA06",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "The function f is defined by f(x) = 5 − 2x. If f(a) = −7, what is a?",
-  "choices": [
-   "−6",
-   "6",
-   "1",
-   "−1"
-  ],
-  "answer": "B",
-  "explanation": "5 − 2a = −7 → −2a = −12 → a = 6."
- },
- {
-  "id": "pmA07",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "medium",
-  "type": "grid",
-  "q": "What is the smallest value of x for which |2x − 6| = 4?",
-  "answer": "1",
-  "explanation": "|2x − 6| = 4 has two cases. 2x − 6 = 4 → x = 5, OR 2x − 6 = −4 → x = 1. The smaller is 1."
- },
- {
-  "id": "pmA08",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A line passes through (−2, 4) and (3, −6). What is the slope of the line?",
-  "choices": [
-   "−2",
-   "2",
-   "−1/2",
-   "1/2"
-  ],
-  "answer": "A",
-  "explanation": "Slope = (−6 − 4) / (3 − (−2)) = −10 / 5 = −2. Watch the signs — sign errors give +2."
- },
- {
-  "id": "pmA09",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "For what value of c does the system 2x + y = 8 and 4x + 2y = c have infinitely many solutions?",
-  "choices": [
-   "4",
-   "8",
-   "16",
-   "Any value of c"
-  ],
-  "answer": "C",
-  "explanation": "The left side of equation 2 is 2×(left side of eq 1). For the same line, the right side must also be 2 × 8 = 16.",
-  "hint": "For infinitely many solutions, the two equations must be the SAME line — same left AND same right side (as scalar multiples).",
-  "steps": [
-   "For a system to have infinitely many solutions, the two equations must describe the same line.",
-   "Compare left sides: 4x + 2y is exactly 2 × (2x + y). So equation 2's left side is 2 × equation 1's left side.",
-   "For the same line, the right side must also match that multiple: c = 2 × 8 = 16."
-  ]
- },
- {
-  "id": "pmA10",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "Sarah has $45 and saves $8 each week. After how many weeks will she have $125 in total?",
-  "choices": [
-   "8",
-   "10",
-   "12",
-   "15"
-  ],
-  "answer": "B",
-  "explanation": "45 + 8w = 125 → 8w = 80 → w = 10."
- },
- {
-  "id": "pmA11",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "medium",
-  "type": "grid",
-  "q": "If 3(x − 2) = 2x + 7, what is the value of x?",
-  "answer": "13",
-  "explanation": "Distribute: 3x − 6 = 2x + 7. Subtract 2x: x − 6 = 7. Add 6: x = 13."
- },
- {
-  "id": "pmA12",
-  "section": "Math",
-  "category": "Algebra",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "A linear function models total cost: C(n) = 50 + 12n, where n is the number of items produced. Which statement best interprets the function?",
-  "choices": [
-   "Each item costs $62 to produce.",
-   "Producing 0 items costs $50, and each additional item adds $12 to the cost.",
-   "Each item costs $50, plus $12 in shipping.",
-   "The total cost is $62n for n items."
-  ],
-  "answer": "B",
-  "explanation": "The y-intercept (50) is the fixed cost at n = 0; the slope (12) is the added cost per item. (B) reads both correctly.",
-  "hint": "In C(n) = a + bn, 'a' is what you pay when n = 0; 'b' is what each unit adds.",
-  "steps": [
-   "Identify the two parts of C(n) = 50 + 12n.",
-   "The constant term (50) is the y-intercept — the cost when n = 0 items.",
-   "The coefficient of n (12) is the slope — the cost added per additional item.",
-   "(B) correctly names both: $50 fixed cost + $12 per item."
-  ]
- },
- {
-  "id": "pmG01",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "A right triangle has legs of length 5 and 12. What is the length of the hypotenuse?",
-  "choices": [
-   "13",
-   "17",
-   "119",
-   "169"
-  ],
-  "answer": "A",
-  "explanation": "5² + 12² = 25 + 144 = 169, so the hypotenuse is √169 = 13. (5-12-13 is a Pythagorean triple worth memorizing.)"
- },
- {
-  "id": "pmG02",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "easy",
-  "type": "grid",
-  "q": "A triangle has a base of 14 and a height of 9. What is its area?",
-  "answer": "63",
-  "explanation": "Area = ½ × base × height = ½ × 14 × 9 = 63."
- },
- {
-  "id": "pmG03",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A circle has a circumference of 10π. What is its area?",
-  "choices": [
-   "5π",
-   "10π",
-   "25π",
-   "100π"
-  ],
-  "answer": "C",
-  "explanation": "C = 2πr = 10π, so r = 5. Then Area = πr² = π(5)² = 25π."
- },
- {
-  "id": "pmG04",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "What is the distance between the points (1, 2) and (4, 6) in the xy-plane?",
-  "choices": [
-   "3",
-   "4",
-   "5",
-   "7"
-  ],
-  "answer": "C",
-  "explanation": "d = √((4−1)² + (6−2)²) = √(9 + 16) = √25 = 5. (A 3-4-5 triangle.)"
- },
- {
-  "id": "pmG05",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "In a right triangle, an angle θ has an opposite side of 8, an adjacent side of 6, and a hypotenuse of 10. What is tan θ?",
-  "choices": [
-   "3/4",
-   "4/3",
-   "4/5",
-   "3/5"
-  ],
-  "answer": "B",
-  "explanation": "TOA: tan = Opposite / Adjacent = 8 / 6 = 4/3."
- },
- {
-  "id": "pmG06",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "grid",
-  "q": "A rectangular box has length 5, width 3, and height 4. What is its volume?",
-  "answer": "60",
-  "explanation": "V = length × width × height = 5 × 3 × 4 = 60."
- },
- {
-  "id": "pmG07",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "In a right triangle, one acute angle measures 30° and the hypotenuse has length 12. What is the length of the side opposite the 30° angle?",
-  "choices": [
-   "4",
-   "6",
-   "6√3",
-   "12"
-  ],
-  "answer": "B",
-  "explanation": "In a 30-60-90 triangle, the side opposite 30° = hypotenuse / 2. So 12 / 2 = 6. (The reference sheet provides this ratio.)"
- },
- {
-  "id": "pmG08",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "A circle in the xy-plane has center (3, −4) and radius 5. Which of the following points lies on the circle?",
-  "choices": [
-   "(0, 0)",
-   "(3, 0)",
-   "(5, −4)",
-   "(3, −5)"
-  ],
-  "answer": "A",
-  "explanation": "Check the distance from each point to (3, −4). For (0, 0): √(9 + 16) = √25 = 5. ✓ The others give 4, 2, and 1.",
-  "hint": "A point lies on the circle only if its DISTANCE from the center equals the radius exactly.",
-  "steps": [
-   "A point lies on a circle when its distance from the center equals the radius.",
-   "Center is (3, −4), radius is 5.",
-   "For (0, 0): d = √((0−3)² + (0−(−4))²) = √(9+16) = √25 = 5. ✓",
-   "The others give distances 4, 2, and 1 — none equal 5."
-  ]
- },
- {
-  "id": "pmG09",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "Two similar triangles have corresponding sides in the ratio 3 : 5. If the area of the smaller triangle is 18, what is the area of the larger triangle?",
-  "choices": [
-   "30",
-   "45",
-   "50",
-   "90"
-  ],
-  "answer": "C",
-  "explanation": "Areas of similar figures scale by the SQUARE of the side ratio: (3/5)² = 9/25. Larger area = 18 × (25/9) = 50.",
-  "hint": "For similar figures, the RATIO OF AREAS is the SQUARE of the ratio of sides.",
-  "steps": [
-   "For similar figures, side ratio k means area ratio k².",
-   "Sides are 3 : 5, so areas are 9 : 25.",
-   "Set up: 18 / large = 9 / 25.",
-   "Solve: large = 18 × 25 / 9 = 50."
-  ]
- },
- {
-  "id": "pmG10",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "If sin(x°) = 0.4, what is the value of cos((90 − x)°)?",
-  "choices": [
-   "0.4",
-   "0.6",
-   "0.8",
-   "0.96"
-  ],
-  "answer": "A",
-  "explanation": "Complementary identity: cos(90° − x) = sin(x). So cos((90 − x)°) = sin(x°) = 0.4. (Don't compute cos(x) — the question asks for the complement.)"
- },
- {
-  "id": "pmV01",
-  "section": "Math",
-  "category": "Advanced Math",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "What are the solutions of x² − 7x + 12 = 0?",
-  "choices": [
-   "3 and 4",
-   "−3 and −4",
-   "2 and 6",
-   "1 and 12"
-  ],
-  "answer": "A",
-  "explanation": "Factor: (x − 3)(x − 4) = 0. So x = 3 or x = 4."
- },
- {
-  "id": "pmV02",
-  "section": "Math",
-  "category": "Advanced Math",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "How many real solutions does the equation x² + 4x + 5 = 0 have?",
-  "choices": [
-   "Two",
-   "One",
-   "None",
-   "Cannot be determined"
-  ],
-  "answer": "C",
-  "explanation": "Discriminant b² − 4ac = 16 − 20 = −4 < 0. A negative discriminant means no real solutions."
- },
- {
-  "id": "pmV03",
-  "section": "Math",
-  "category": "Advanced Math",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A bank account starts with $500 and earns 6% interest per year, compounded annually. Which expression gives the balance after t years?",
-  "choices": [
-   "500 + 0.06·t",
-   "500·(1 + 0.06·t)",
-   "500·(1.06)^t",
-   "500·(0.06)^t"
-  ],
-  "answer": "C",
-  "explanation": "Compound annual growth multiplies by (1 + rate) each year, raised to t: 500·(1.06)^t."
- },
- {
-  "id": "pmV04",
-  "section": "Math",
-  "category": "Advanced Math",
-  "difficulty": "medium",
-  "type": "grid",
-  "q": "If f(x) = 2x + 1 and g(x) = x², what is the value of f(g(3))?",
-  "answer": "19",
-  "explanation": "Work outside-in. g(3) = 3² = 9. Then f(9) = 2(9) + 1 = 19."
- },
- {
-  "id": "pmV05",
-  "section": "Math",
-  "category": "Advanced Math",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "When the polynomial p(x) is divided by (x − 2), the remainder is 5. What is the value of p(2)?",
-  "choices": [
-   "0",
-   "2",
-   "5",
-   "Cannot be determined"
-  ],
-  "answer": "C",
-  "explanation": "Remainder Theorem: when p(x) is divided by (x − a), the remainder equals p(a). So p(2) = 5.",
-  "hint": "Use the Remainder Theorem — no long division needed.",
-  "steps": [
-   "Remainder Theorem: when p(x) is divided by (x − a), the remainder equals p(a).",
-   "Here we're dividing by (x − 2), so a = 2.",
-   "The remainder is 5, so p(2) = 5."
-  ]
- },
- {
-  "id": "pmV06",
-  "section": "Math",
-  "category": "Advanced Math",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "The function f(x) = x² − 8x + 15 has its minimum value at which x?",
-  "choices": [
-   "−8",
-   "−4",
-   "4",
-   "8"
-  ],
-  "answer": "C",
-  "explanation": "For a quadratic ax² + bx + c, the vertex is at x = −b / (2a). Here −(−8) / (2·1) = 8/2 = 4.",
-  "hint": "For any quadratic ax² + bx + c, the vertex is at x = −b / (2a).",
-  "steps": [
-   "Vertex x-coordinate formula: x = −b / (2a).",
-   "Here a = 1, b = −8.",
-   "x = −(−8) / (2·1) = 8 / 2 = 4.",
-   "Since a > 0, the parabola opens upward and this vertex is the minimum."
-  ]
- },
- {
-  "id": "pmS01",
-  "section": "Math",
-  "category": "Statistics & Data",
-  "difficulty": "easy",
-  "type": "grid",
-  "q": "What is the mean of the numbers 3, 7, 9, 11, 15?",
-  "answer": "9",
-  "explanation": "Sum = 3 + 7 + 9 + 11 + 15 = 45. Mean = 45 / 5 = 9."
- },
- {
-  "id": "pmS02",
-  "section": "Math",
-  "category": "Statistics & Data",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A shirt that originally cost $40 is on sale for $30. What is the percent discount?",
-  "choices": [
-   "10%",
-   "20%",
-   "25%",
-   "33%"
-  ],
-  "answer": "C",
-  "explanation": "Discount amount = $40 − $30 = $10. Percent = 10 / 40 = 0.25 = 25%."
- },
- {
-  "id": "pmS03",
-  "section": "Math",
-  "category": "Statistics & Data",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Out of 100 students, 60 take Spanish and 40 take French. Of the Spanish students, 30 are juniors. If a randomly selected student takes Spanish, what is the probability that the student is a junior?",
-  "choices": [
-   "30/100",
-   "30/60",
-   "30/40",
-   "60/100"
-  ],
-  "answer": "B",
-  "explanation": "Conditional probability: the condition restricts the denominator. Given the student takes Spanish, the denominator is 60 (not 100), so P = 30/60 = 1/2."
- },
- {
-  "id": "pmS04",
-  "section": "Math",
-  "category": "Statistics & Data",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A car uses 8 gallons of gas to travel 240 miles. At this rate, how many miles can it travel on 12 gallons?",
-  "choices": [
-   "280",
-   "320",
-   "360",
-   "480"
-  ],
-  "answer": "C",
-  "explanation": "Rate = 240 / 8 = 30 miles per gallon. With 12 gallons: 30 × 12 = 360 miles."
- },
- {
-  "id": "pmR01",
-  "section": "Reading & Writing",
-  "category": "Punctuation",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "Which version of the sentence uses punctuation correctly?",
-  "choices": [
-   "The rain stopped and the sun came out.",
-   "The rain stopped, and the sun came out.",
-   "The rain stopped; and the sun came out.",
-   "The rain stopped and, the sun came out."
-  ],
-  "answer": "B",
-  "explanation": "Two independent clauses joined by a FANBOYS conjunction (and) take a comma BEFORE the conjunction."
- },
- {
-  "id": "pmR02",
-  "section": "Reading & Writing",
-  "category": "Transitions",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which transition best completes the sentence?\n\n\"Coastal cities have invested heavily in seawalls; ___, rising sea levels continue to threaten infrastructure.\"",
-  "choices": [
-   "therefore",
-   "however",
-   "for example",
-   "similarly"
-  ],
-  "answer": "B",
-  "explanation": "The second clause sets up a contrast with the investment. 'However' signals contrast; 'therefore' wrongly implies cause-effect."
- },
- {
-  "id": "pmR03",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which version is grammatically correct?",
-  "choices": [
-   "The collection of rare manuscripts are housed in the library.",
-   "The collection of rare manuscripts is housed in the library.",
-   "The collection of rare manuscripts have been housed in the library.",
-   "The collection of rare manuscripts were housed in the library."
-  ],
-  "answer": "B",
-  "explanation": "Cross out the prepositional phrase 'of rare manuscripts.' The true subject is 'collection' — singular — so the verb is 'is.'"
- },
- {
-  "id": "pmR04",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "Researchers found that a city's air quality improved sharply after a new public-transit network opened, yet automobile registrations in the city rose during the same period. The most logical explanation is that ___",
-  "choices": [
-   "the new transit reduced overall driving despite the rise in registrations.",
-   "air quality improvements always coincide with transit projects.",
-   "more registered cars means more pollution.",
-   "the new transit had no measurable effect on emissions."
-  ],
-  "answer": "A",
-  "explanation": "The paradox: more cars but cleaner air. (A) resolves the contradiction using the passage's logic — registered ≠ actively driven. (B), (C), (D) either overreach or contradict the observation.",
-  "hint": "The right answer RESOLVES the apparent contradiction using the passage's own logic.",
-  "steps": [
-   "Notice the paradox: more registered cars, yet cleaner air.",
-   "Look for the choice that resolves it without contradicting the passage.",
-   "(A) resolves it — registered ≠ actively driven; the new transit might mean people register but drive less.",
-   "(B), (C), and (D) either overreach or dismiss the observation."
-  ]
- },
- {
-  "id": "pmR05",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "After describing a hypothesis, an author writes: \"However, repeated trials produced no measurable effect.\" What is the main purpose of this sentence?",
-  "choices": [
-   "To restate the original hypothesis in simpler terms.",
-   "To introduce evidence that complicates the hypothesis.",
-   "To provide background information about the experiment.",
-   "To propose an alternative explanation."
-  ],
-  "answer": "B",
-  "explanation": "The word 'However' signals a turn; the failed trials push against the hypothesis. The sentence's job is to introduce challenging evidence."
- },
- {
-  "id": "pmR06",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Text 1 argues that remote work increases productivity by reducing distractions. Text 2 argues that remote work increases worker isolation. How would the author of Text 2 most likely respond to Text 1's claim?",
-  "choices": [
-   "Reject it as entirely false.",
-   "Acknowledge it, but emphasize that productivity is not the only relevant measure.",
-   "Agree completely with the claim.",
-   "Cite contradictory data on productivity."
-  ],
-  "answer": "B",
-  "explanation": "Text 2 doesn't deny productivity — it adds a different concern (isolation). The best response qualifies rather than rejects: (B)."
- },
- {
-  "id": "pmR07",
-  "section": "Reading & Writing",
-  "category": "Vocabulary in Context",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "As used in the sentence, the word \"novel\" most nearly means:\n\n\"The scientist proposed a novel approach to the problem.\"",
-  "choices": [
-   "fictional",
-   "brand-new",
-   "lengthy",
-   "cautious"
-  ],
-  "answer": "B",
-  "explanation": "In context — a scientist's approach to a problem — 'novel' means new or innovative, not a fictional book."
- },
- {
-  "id": "pmR08",
-  "section": "Reading & Writing",
-  "category": "Rhetoric",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Goal: emphasize the unprecedented scale of an event. Which choice best meets the goal?",
-  "choices": [
-   "The 1906 earthquake caused damage in San Francisco.",
-   "Striking with unprecedented force, the 1906 earthquake leveled large parts of San Francisco and left more than 200,000 people homeless.",
-   "Many San Franciscans were affected by the 1906 earthquake.",
-   "Historians have studied the 1906 earthquake for over a century."
-  ],
-  "answer": "B",
-  "explanation": "The goal calls for scale. (A), (C), and (D) state facts but don't convey size. (B) front-loads scale ('unprecedented force,' '200,000 homeless')."
- },
- {
-  "id": "pmP01",
-  "section": "Reading & Writing",
-  "category": "Punctuation",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "Which version of the sentence is punctuated correctly?",
-  "choices": [
-   "The team prepared diligently for the match and they were rewarded with a victory.",
-   "The team prepared diligently for the match, and they were rewarded with a victory.",
-   "The team prepared diligently for the match, they were rewarded with a victory.",
-   "The team prepared diligently for the match; and they were rewarded with a victory."
-  ],
-  "answer": "B",
-  "explanation": "Two independent clauses joined by a FANBOYS conjunction ('and') need a comma BEFORE the conjunction. (A) omits the comma; (C) is a comma splice; (D) misuses the semicolon — semicolons join independent clauses without a conjunction."
- },
- {
-  "id": "pmP02",
-  "section": "Reading & Writing",
-  "category": "Punctuation",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which version is punctuated correctly?",
-  "choices": [
-   "Despite heavy rain, the soccer game continued as scheduled.",
-   "Despite heavy rain the soccer game continued, as scheduled.",
-   "Despite heavy rain, the soccer game, continued as scheduled.",
-   "Despite heavy rain the soccer game continued as scheduled."
-  ],
-  "answer": "A",
-  "explanation": "An introductory phrase ('Despite heavy rain') is followed by a comma. (D) omits the required intro comma; (B) and (C) drop commas inside the main clause where none are needed."
- },
- {
-  "id": "pmP03",
-  "section": "Reading & Writing",
-  "category": "Punctuation",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which version uses punctuation correctly?",
-  "choices": [
-   "The recipe requires three ingredients; flour, sugar, and butter.",
-   "The recipe requires three ingredients: flour, sugar, and butter.",
-   "The recipe requires three ingredients, flour, sugar, and butter.",
-   "The recipe requires; three ingredients, flour, sugar, and butter."
-  ],
-  "answer": "B",
-  "explanation": "A complete sentence followed by a list takes a COLON, not a semicolon. A semicolon (A) works only between two independent clauses; (C) is a comma splice; (D) misplaces the semicolon entirely."
- },
- {
-  "id": "pmP04",
-  "section": "Reading & Writing",
-  "category": "Punctuation",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "The writer has only one sister. Which sentence is punctuated correctly?",
-  "choices": [
-   "My sister who lives in Boston is a doctor.",
-   "My sister, who lives in Boston is a doctor.",
-   "My sister, who lives in Boston, is a doctor.",
-   "My sister who lives in Boston, is a doctor."
-  ],
-  "answer": "C",
-  "explanation": "With only one sister, 'who lives in Boston' is non-essential extra information — set it off with commas on BOTH sides. (A) omits both commas; (B) and (D) include only one — both wrong."
- },
- {
-  "id": "pmP05",
-  "section": "Reading & Writing",
-  "category": "Punctuation",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "Which sentence is punctuated correctly?",
-  "choices": [
-   "I packed sandwiches, fruit and water.",
-   "I packed sandwiches, fruit, and water.",
-   "I packed sandwiches and fruit, and water.",
-   "I packed; sandwiches, fruit, and water."
-  ],
-  "answer": "B",
-  "explanation": "A three-item series takes commas between items, and the SAT uses the Oxford comma (the one before 'and'). (A) omits it; (C) inserts an extra 'and'; (D) misuses a semicolon."
- },
- {
-  "id": "pmP06",
-  "section": "Reading & Writing",
-  "category": "Punctuation",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which version is punctuated correctly?",
-  "choices": [
-   "The new policy — surprising as it was — passed unanimously.",
-   "The new policy, surprising as it was — passed unanimously.",
-   "The new policy — surprising as it was, passed unanimously.",
-   "The new policy surprising as it was, passed unanimously."
-  ],
-  "answer": "A",
-  "explanation": "A parenthetical phrase set off in the middle of a sentence must use MATCHING punctuation on both sides — two em dashes, or two commas. Mixing them (B, C) is wrong; (D) drops the punctuation entirely."
- },
- {
-  "id": "pmP07",
-  "section": "Reading & Writing",
-  "category": "Punctuation",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "Which version correctly joins the two clauses?",
-  "choices": [
-   "The data was surprising, the team requested a second analysis.",
-   "The data was surprising the team requested a second analysis.",
-   "The data was surprising; the team requested a second analysis.",
-   "The data was surprising, however, the team requested a second analysis."
-  ],
-  "answer": "C",
-  "explanation": "Two independent clauses with no conjunction need a semicolon. (A) is a comma splice; (B) is a run-on; (D) is also a comma splice — 'however' is an adverb, not a conjunction, so it needs a semicolon BEFORE it (e.g., '...surprising; however, the team...')."
- },
- {
-  "id": "pmW01",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which version is grammatically correct?",
-  "choices": [
-   "Neither the principal nor the teachers was aware of the change.",
-   "Neither the principal nor the teachers were aware of the change.",
-   "Neither the principal nor the teachers is aware of the change.",
-   "Neither the principal nor the teachers has been aware of the change."
-  ],
-  "answer": "B",
-  "explanation": "With 'neither...nor' the verb agrees with the subject CLOSEST to it. 'teachers' (plural) is closer, so use 'were.' This is a classic SAT trap — most students pick (A) by default."
- },
- {
-  "id": "pmW02",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which version is grammatically correct?",
-  "choices": [
-   "Every student must bring their textbook to class.",
-   "Every student must bring his or her textbook to class.",
-   "Every student must bring our textbook to class.",
-   "Every student must bring textbooks to class."
-  ],
-  "answer": "B",
-  "explanation": "The antecedent 'Every student' is singular, so the pronoun must be singular too. SAT grammar favors 'his or her' over the conversational 'their' for singular antecedents. (D) changes the meaning."
- },
- {
-  "id": "pmW03",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which version uses verb tense correctly?",
-  "choices": [
-   "She walked into the room and notices a strange smell.",
-   "She walks into the room and noticed a strange smell.",
-   "She walked into the room and noticed a strange smell.",
-   "She had walked into the room and notices a strange smell."
-  ],
-  "answer": "C",
-  "explanation": "Both actions occur in the same time frame and must match. 'walked...noticed' keeps a consistent past tense. The other choices switch between past and present with no reason."
- },
- {
-  "id": "pmW04",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which sentence is free of a dangling or misplaced modifier?",
-  "choices": [
-   "Hiking in the woods, my backpack felt heavy.",
-   "Hiking in the woods, I felt my backpack getting heavy.",
-   "My backpack felt heavy hiking in the woods.",
-   "Hiking in the woods my backpack felt heavy."
-  ],
-  "answer": "B",
-  "explanation": "The opening phrase 'Hiking in the woods' must modify the subject that follows the comma. Backpacks can't hike — so the subject after the comma has to be a person. Only (B) puts 'I' there."
- },
- {
-  "id": "pmW05",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which version uses parallel structure correctly?",
-  "choices": [
-   "The director was known for her precision, creativity, and being thorough.",
-   "The director was known for her precision, creativity, and thoroughness.",
-   "The director was known for being precise, creative, and thoroughness.",
-   "The director was known for her precise, creative, and being thorough."
-  ],
-  "answer": "B",
-  "explanation": "Items in a list must take the same grammatical form. (B) uses three nouns — precision, creativity, thoroughness. The other choices mix nouns with phrases or adjectives, breaking the pattern."
- },
- {
-  "id": "pmW06",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which version correctly joins the two ideas?",
-  "choices": [
-   "The experiment failed three times, we will try again tomorrow.",
-   "The experiment failed three times we will try again tomorrow.",
-   "The experiment failed three times; we will try again tomorrow.",
-   "The experiment failed three times: we will try again tomorrow."
-  ],
-  "answer": "C",
-  "explanation": "Two independent clauses with no conjunction need a semicolon. (A) is a comma splice; (B) is a run-on; (D) misuses the colon, which requires an explanation or list to follow, not a separate complete thought."
- },
- {
-  "id": "pmW07",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "Which version is grammatically correct?",
-  "choices": [
-   "The list of recommended books for incoming freshmen are posted on the bulletin board.",
-   "The list of recommended books for incoming freshmen is posted on the bulletin board.",
-   "The list of recommended books for incoming freshmen, is, posted on the bulletin board.",
-   "The list of recommended books for incoming freshmen have been posted on the bulletin board."
-  ],
-  "answer": "B",
-  "explanation": "Cross out the prepositional phrases ('of recommended books for incoming freshmen'). The real subject is 'list' — singular — so use 'is.' The intervening words look plural but don't change the subject."
- },
- {
-  "id": "pmB01",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "A bag contains 4 red, 6 blue, and 5 green marbles. What is the probability of randomly drawing a blue marble?",
-  "choices": [
-   "4/15",
-   "6/15",
-   "5/15",
-   "6/10"
-  ],
-  "answer": "B",
-  "hint": "Probability = favorable outcomes ÷ total outcomes.",
-  "explanation": "Total = 4 + 6 + 5 = 15. P(blue) = 6/15 = 2/5.",
-  "steps": [
-   "Count the total outcomes: 4 + 6 + 5 = 15 marbles.",
-   "Count the favorable outcomes: 6 blue marbles.",
-   "Divide favorable by total: 6/15."
-  ]
- },
- {
-  "id": "pmB02",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "The probability that Alex misses a free throw is 0.2. If he shoots 3 free throws, what is the probability that he makes AT LEAST ONE?",
-  "choices": [
-   "0.008",
-   "0.488",
-   "0.512",
-   "0.992"
-  ],
-  "answer": "D",
-  "hint": "'At least one' problems are almost always faster using the complement rule: 1 − P(none).",
-  "explanation": "P(at least one make) = 1 − P(all miss) = 1 − (0.2)³ = 1 − 0.008 = 0.992.",
-  "steps": [
-   "'At least one' is a signal to use the complement: 1 − P(none).",
-   "P(miss all 3) = 0.2 × 0.2 × 0.2 = 0.008.",
-   "P(at least one make) = 1 − 0.008 = 0.992."
-  ]
- },
- {
-  "id": "pmB03",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A survey of 200 people asked about pet ownership: 80 own a dog, 60 own a cat, and 30 own both. If a randomly selected person owns a dog, what is the probability they also own a cat?",
-  "choices": [
-   "30/200",
-   "30/80",
-   "30/60",
-   "30/110"
-  ],
-  "answer": "B",
-  "hint": "'Given they own a dog' restricts the denominator — it's no longer 200.",
-  "explanation": "Conditional probability. The condition ('owns a dog') narrows the denominator to dog-owners (80). Of those, 30 also own a cat. P = 30/80 = 3/8.",
-  "steps": [
-   "The word 'given' (or 'if a randomly selected X…') signals conditional probability.",
-   "The denominator becomes the 'given' group only: dog-owners = 80.",
-   "The numerator is the intersection: own both = 30.",
-   "Answer = 30/80."
-  ]
- },
- {
-  "id": "pmB04",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "A fair coin is flipped twice. What is the probability of getting heads BOTH times?",
-  "choices": [
-   "1/2",
-   "1/3",
-   "1/4",
-   "2/4"
-  ],
-  "answer": "C",
-  "hint": "Independent events combine by multiplication.",
-  "explanation": "Independent events: multiply probabilities. P(H) × P(H) = 1/2 × 1/2 = 1/4.",
-  "steps": [
-   "Each coin flip is independent — the second doesn't depend on the first.",
-   "P(heads) on any single flip = 1/2.",
-   "For BOTH events, multiply: 1/2 × 1/2 = 1/4."
-  ]
- },
- {
-  "id": "pmB05",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "A square dartboard has a circle inscribed in it (the circle touches all four sides). If a dart lands randomly inside the square, what is the probability it lands inside the circle?",
-  "choices": [
-   "π/2",
-   "π/4",
-   "1/π",
-   "4/π"
-  ],
-  "answer": "B",
-  "hint": "Geometric probability = favorable area ÷ total area. Use a variable for the side.",
-  "explanation": "Let the square's side = s. Area of square = s². Inscribed circle has diameter s, so radius s/2, area π(s/2)² = πs²/4. Probability = (πs²/4)/s² = π/4.",
-  "steps": [
-   "Geometric probability = favorable area ÷ total area.",
-   "Let the square have side s. Its area is s².",
-   "The inscribed circle has diameter s, so radius s/2, and area π(s/2)² = πs²/4.",
-   "Ratio: (πs²/4) ÷ s² = π/4. The s² cancels — the answer doesn't depend on the actual size."
-  ]
- },
- {
-  "id": "pmB06",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "easy",
-  "type": "grid",
-  "q": "In a class of 30 students, the probability that a randomly selected student takes Spanish is 3/5. How many students take Spanish?",
-  "answer": "18",
-  "hint": "Multiply the probability by the total group size to get the expected count.",
-  "explanation": "Expected count = probability × total. 3/5 × 30 = 18.",
-  "steps": [
-   "When probability × total group is asked, multiply.",
-   "3/5 × 30 = (3 × 30)/5 = 90/5 = 18."
-  ]
- },
- {
-  "id": "pmB07",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "At a high school, 60% of students play a sport. Of those who play a sport, 40% also play in the band. What percent of ALL students play both a sport AND band?",
-  "choices": [
-   "20%",
-   "24%",
-   "40%",
-   "100%"
-  ],
-  "answer": "B",
-  "hint": "When the second event's probability is stated 'of those who…', that's a conditional probability — multiply.",
-  "explanation": "P(sport AND band) = P(sport) × P(band | sport) = 0.60 × 0.40 = 0.24 = 24%.",
-  "steps": [
-   "Convert the percents to decimals: 60% → 0.60; 40% → 0.40.",
-   "The 40% is conditional (of sport-players), so use the multiplication rule.",
-   "0.60 × 0.40 = 0.24.",
-   "Convert back to percent: 24%."
-  ]
- },
- {
-  "id": "pmB08",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "In a survey of 150 voters, 90 support Candidate A and 60 support Candidate B. Of Candidate A supporters, 30 are under 40. What is the probability that a randomly selected voter is BOTH a Candidate A supporter AND under 40?",
-  "choices": [
-   "30/150",
-   "30/90",
-   "90/150",
-   "60/150"
-  ],
-  "answer": "A",
-  "hint": "'Both A and B' is not the same as 'given A' — the denominator differs.",
-  "explanation": "'Both A AND under 40' asks about the whole sample: denominator = 150, numerator = 30 (fit both). P = 30/150 = 1/5.",
-  "steps": [
-   "Read carefully: 'both X AND Y' means the whole group is the denominator.",
-   "Denominator = total sample = 150.",
-   "Numerator = people fitting BOTH criteria = 30.",
-   "P = 30/150 = 1/5."
-  ]
- },
- {
-  "id": "pmB09",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A jar contains 5 red and 3 blue marbles. Two marbles are drawn without replacement. What is the probability both are red?",
-  "choices": [
-   "25/64",
-   "20/56",
-   "5/8",
-   "10/56"
-  ],
-  "answer": "B",
-  "hint": "'Without replacement' means the second draw's probabilities change.",
-  "explanation": "P(1st red) = 5/8. After removing that red: 4 red left out of 7 total. P(2nd red | 1st red) = 4/7. Multiply: 5/8 × 4/7 = 20/56 = 5/14.",
-  "steps": [
-   "Without replacement means the second event depends on the first.",
-   "P(1st red) = 5/8.",
-   "After removing that one red, 4 red remain and 7 total: P(2nd red) = 4/7.",
-   "Multiply: 5/8 × 4/7 = 20/56."
-  ]
- },
- {
-  "id": "pmB10",
-  "section": "Math",
-  "category": "Probability",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "A machine has two independent components. Component A fails with probability 0.1; Component B fails with probability 0.05. What is the probability that AT LEAST ONE component fails?",
-  "choices": [
-   "0.005",
-   "0.145",
-   "0.15",
-   "0.855"
-  ],
-  "answer": "B",
-  "hint": "Combine 'at least one' with independence: use 1 − P(neither fails).",
-  "explanation": "P(at least one fails) = 1 − P(neither fails) = 1 − (0.9)(0.95) = 1 − 0.855 = 0.145.",
-  "steps": [
-   "Use the complement rule for 'at least one.'",
-   "P(A doesn't fail) = 1 − 0.1 = 0.9. P(B doesn't fail) = 1 − 0.05 = 0.95.",
-   "Since A and B are independent, P(neither fails) = 0.9 × 0.95 = 0.855.",
-   "P(at least one fails) = 1 − 0.855 = 0.145.  (Not 0.15 — the small extra 0.005 comes from both failing together.)"
-  ]
- },
- {
-  "id": "pmG11",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "In a triangle, two angles measure 50° and 70°. What is the measure of the third angle?",
-  "choices": [
-   "40°",
-   "50°",
-   "60°",
-   "70°"
-  ],
-  "answer": "C",
-  "hint": "Interior angles of a triangle sum to 180°.",
-  "explanation": "180° − 50° − 70° = 60°.",
-  "steps": [
-   "The three interior angles of any triangle sum to 180°.",
-   "Add the given angles: 50 + 70 = 120°.",
-   "Third angle = 180 − 120 = 60°."
-  ]
- },
- {
-  "id": "pmG12",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Two parallel lines are cut by a transversal. One angle formed measures 65°. What is the measure of its alternate interior angle?",
-  "choices": [
-   "25°",
-   "65°",
-   "90°",
-   "115°"
-  ],
-  "answer": "B",
-  "hint": "Learn the parallel-line angle pairs: alternate interior angles are equal.",
-  "explanation": "When parallel lines are cut by a transversal, alternate interior angles are congruent (equal).",
-  "steps": [
-   "Identify the pair: 'alternate interior' angles sit on opposite sides of the transversal, between the two parallel lines.",
-   "Rule: parallel lines make alternate interior angles equal.",
-   "Answer: 65°."
-  ]
- },
- {
-  "id": "pmG13",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A circle has radius 6. What is the length of an arc subtended by a central angle of 60°?",
-  "choices": [
-   "π",
-   "2π",
-   "6π",
-   "12π"
-  ],
-  "answer": "B",
-  "hint": "An arc is a fraction (θ/360) of the full circumference.",
-  "explanation": "Arc length = (θ/360) × 2πr = (60/360) × 12π = (1/6)(12π) = 2π.",
-  "steps": [
-   "Arc-length formula: (θ/360) × circumference.",
-   "Full circumference = 2π(6) = 12π.",
-   "Fraction of the circle: 60/360 = 1/6.",
-   "Arc = (1/6)(12π) = 2π."
-  ]
- },
- {
-  "id": "pmG14",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A circular pizza has radius 8 inches. A slice cuts a 45° sector. What is the area of the slice, in square inches?",
-  "choices": [
-   "8π",
-   "16π",
-   "32π",
-   "64π"
-  ],
-  "answer": "A",
-  "hint": "A sector is a fraction (θ/360) of the whole circle's area.",
-  "explanation": "Sector area = (θ/360) × πr² = (45/360) × π(8)² = (1/8)(64π) = 8π.",
-  "steps": [
-   "Sector-area formula: (θ/360) × total area of circle.",
-   "Total area = π(8)² = 64π.",
-   "Fraction: 45/360 = 1/8.",
-   "Sector area = (1/8)(64π) = 8π."
-  ]
- },
- {
-  "id": "pmG15",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "In a circle, an inscribed angle intercepts an arc measuring 80°. What is the measure of the inscribed angle?",
-  "choices": [
-   "20°",
-   "40°",
-   "80°",
-   "160°"
-  ],
-  "answer": "B",
-  "hint": "Inscribed-angle theorem: the inscribed angle is HALF its intercepted arc.",
-  "explanation": "By the inscribed-angle theorem, an inscribed angle equals ½ its intercepted arc. 80° ÷ 2 = 40°.",
-  "steps": [
-   "Recall the inscribed-angle theorem: inscribed angle = ½ × intercepted arc.",
-   "Intercepted arc = 80°.",
-   "Inscribed angle = 80/2 = 40°."
-  ]
- },
- {
-  "id": "pmG16",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A line has slope 3. What is the slope of a line perpendicular to it?",
-  "choices": [
-   "3",
-   "−3",
-   "1/3",
-   "−1/3"
-  ],
-  "answer": "D",
-  "hint": "Perpendicular slopes multiply to −1 — flip the slope and change its sign.",
-  "explanation": "Perpendicular slopes are negative reciprocals. The negative reciprocal of 3 is −1/3.",
-  "steps": [
-   "Rule: perpendicular slopes multiply to −1.",
-   "Take the original slope 3, flip it: 1/3.",
-   "Change the sign: −1/3."
-  ]
- },
- {
-  "id": "pmG17",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "A cone has radius 3 and height 8. What is its volume? (Volume of a cone = (1/3)πr²h.)",
-  "choices": [
-   "12π",
-   "24π",
-   "36π",
-   "72π"
-  ],
-  "answer": "B",
-  "hint": "Don't forget the 1/3 factor — it's what separates cone volume from cylinder volume.",
-  "explanation": "V = (1/3)π(3)²(8) = (1/3)(9π)(8) = 72π/3 = 24π.",
-  "steps": [
-   "Formula: V = (1/3)πr²h (given, and on the reference sheet).",
-   "Substitute r = 3, h = 8: V = (1/3)π(9)(8).",
-   "Compute: (1/3)(72π) = 24π."
-  ]
- },
- {
-  "id": "pmG18",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "A circle in the xy-plane is centered at the origin and passes through the point (5, 12). What is the equation of the circle?",
-  "choices": [
-   "x² + y² = 13",
-   "x² + y² = 17",
-   "x² + y² = 144",
-   "x² + y² = 169"
-  ],
-  "answer": "D",
-  "hint": "For a circle centered at the origin, the equation is x² + y² = r². The right side is r-SQUARED.",
-  "explanation": "Radius = distance from origin to (5, 12) = √(25 + 144) = √169 = 13. Equation: x² + y² = r² = 169.",
-  "steps": [
-   "Standard form of a circle centered at the origin: x² + y² = r².",
-   "Find r as the distance from center (0,0) to the given point (5, 12): √(5² + 12²) = √169 = 13.  (A 5-12-13 triple.)",
-   "The equation uses r², so 13² = 169.",
-   "Answer: x² + y² = 169. The common trap is picking 13 (that's just r, not r²)."
-  ]
- },
- {
-  "id": "pmG19",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Two triangles are similar, with corresponding sides in the ratio 2 : 5. If one side of the smaller triangle is 4, what is the length of the corresponding side in the larger triangle?",
-  "choices": [
-   "8",
-   "10",
-   "12.5",
-   "20"
-  ],
-  "answer": "B",
-  "hint": "Similar triangles have proportional sides — set up a proportion.",
-  "explanation": "Set up: 2/5 = 4/x. Cross-multiply: 2x = 20 → x = 10.",
-  "steps": [
-   "Similar triangles have corresponding sides in equal ratio.",
-   "Set up the proportion: 2/5 = 4/x.",
-   "Cross-multiply: 2x = 20.",
-   "Solve: x = 10."
-  ]
- },
- {
-  "id": "pmG20",
-  "section": "Math",
-  "category": "Geometry & Trig",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "What is the value of sin(30°) + cos(60°)?",
-  "choices": [
-   "1/2",
-   "√2/2",
-   "1",
-   "√3"
-  ],
-  "answer": "C",
-  "hint": "Memorize the 30-60-90 side ratios (1 : √3 : 2) and the resulting trig values.",
-  "explanation": "sin(30°) = 1/2 and cos(60°) = 1/2 (from the 30-60-90 triangle). Sum = 1/2 + 1/2 = 1.",
-  "steps": [
-   "From the 30-60-90 triangle (sides 1, √3, 2): sin(30°) = opposite/hypotenuse = 1/2.",
-   "For cos(60°): cos = adjacent/hypotenuse of the 60° angle = 1/2.",
-   "Add: 1/2 + 1/2 = 1.  (Also follows from cos(60°) = sin(90°−60°) = sin(30°).)"
-  ]
- },
- {
-  "id": "pmW08",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which sentence uses 'who' or 'whom' correctly?",
-  "choices": [
-   "The candidate whom won the debate was interviewed on television.",
-   "The candidate who won the debate was interviewed on television.",
-   "The candidate whom the voters preferred won the debate.",
-   "Both B and C are correct."
-  ],
-  "answer": "D",
-  "hint": "Substitute 'he' or 'him.' If 'he' fits → who; if 'him' fits → whom.",
-  "explanation": "(B): 'who won' — 'he won' works → 'who' is right. (C): 'the voters preferred him' works → 'whom' is right. (A) uses 'whom' as a subject, which is wrong.",
-  "steps": [
-   "Test with substitution: try 'he/she' (for 'who') and 'him/her' (for 'whom').",
-   "(A) 'the candidate ___ won the debate' → 'he won' → should be 'who,' not 'whom.' Wrong.",
-   "(B) 'the candidate ___ won' → 'he won' → 'who' is correct. ✓",
-   "(C) 'the voters preferred ___' → 'preferred him' → 'whom' is correct. ✓",
-   "Both B and C are correct → answer is D."
-  ]
- },
- {
-  "id": "pmW09",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which sentence uses the apostrophe correctly?",
-  "choices": [
-   "The dog wagged it's tail happily.",
-   "The dog wagged its tail happily.",
-   "Its been raining all day.",
-   "The company revised it's policy last week."
-  ],
-  "answer": "B",
-  "hint": "'It's' means 'it is' or 'it has.' 'Its' (no apostrophe) is possessive.",
-  "explanation": "Only (B) uses the possessive 'its' correctly. (A), (C), and (D) either add an apostrophe to the possessive or drop one where 'it is/has' is meant.",
-  "steps": [
-   "Test by substituting 'it is' or 'it has.'",
-   "(A) 'the dog wagged it is tail' — nonsense. So it should be possessive: 'its.' Wrong.",
-   "(B) 'the dog wagged its tail' — possessive, no apostrophe. Correct. ✓",
-   "(C) 'It has been raining' works — should be 'It's,' not 'Its.' Wrong.",
-   "(D) same test fails — should be 'its policy.' Wrong."
-  ]
- },
- {
-  "id": "pmW10",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "Which sentence uses correct comparison?",
-  "choices": [
-   "The population of Chicago is larger than Detroit.",
-   "The population of Chicago is larger than that of Detroit.",
-   "Chicago is larger than Detroit's population.",
-   "Detroit's population is smaller than Chicago."
-  ],
-  "answer": "B",
-  "hint": "You must compare like things — population to population, city to city.",
-  "explanation": "(A), (C), (D) all compare a population to a city (or a city to a population). Only (B) correctly compares populations by using 'that of Detroit' to stand in for 'Detroit's population.'",
-  "steps": [
-   "Identify what's on each side of 'than' — the two things being compared.",
-   "(A) 'population of Chicago' vs 'Detroit' — a population vs a city. Faulty.",
-   "(B) 'population of Chicago' vs 'that of Detroit' — population vs population. ✓",
-   "(C) and (D) also mix cities with populations."
-  ]
- },
- {
-  "id": "pmW11",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which sentence uses the correct verb form?",
-  "choices": [
-   "By the time we arrived, the movie had began.",
-   "By the time we arrived, the movie had began already.",
-   "By the time we arrived, the movie had begun.",
-   "By the time we arrived, the movie began."
-  ],
-  "answer": "C",
-  "hint": "'Had' requires the past participle form. Begin → began → begun.",
-  "explanation": "The verb 'begin' has three principal parts: begin / began / begun. 'Had' pairs with the past participle 'begun.' (D) drops the past-perfect meaning (an action completed BEFORE another past action).",
-  "steps": [
-   "The 'had ___' construction (past perfect) always takes the past participle.",
-   "Principal parts: begin (present), began (simple past), begun (past participle).",
-   "'Had begun' is correct.  (Same pattern: sing/sang/sung, ring/rang/rung.)"
-  ]
- },
- {
-  "id": "pmW12",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which sentence is correctly worded and punctuated?",
-  "choices": [
-   "The book that I borrowed is due tomorrow.",
-   "The book, that I borrowed, is due tomorrow.",
-   "The book which I borrowed is due tomorrow.",
-   "The book, which I borrowed is due tomorrow."
-  ],
-  "answer": "A",
-  "hint": "'That' introduces essential info (no commas); 'which' introduces extra info (commas on both sides).",
-  "explanation": "'That I borrowed' specifies WHICH book — essential info. Essential clauses use 'that' with no commas. 'Which' would need commas on both sides, and (D) only has one.",
-  "steps": [
-   "Determine whether the clause is essential to identifying the noun.",
-   "'That I borrowed' tells us which specific book — essential (restrictive).",
-   "Essential clauses use 'that' and no commas.",
-   "Non-essential clauses use 'which' with commas on BOTH sides."
-  ]
- },
- {
-  "id": "pmW13",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "easy",
-  "type": "mcq",
-  "q": "Which version is the most concise while retaining the meaning?",
-  "choices": [
-   "Due to the fact that the deadline was extended, we finished on time.",
-   "Because the deadline was extended, we finished on time.",
-   "In view of the fact that the deadline was extended, we finished on time.",
-   "Owing to the extension of the deadline that was granted, we finished on time."
-  ],
-  "answer": "B",
-  "hint": "When choices differ only in wordiness and all mean the same thing, pick the shortest correct one.",
-  "explanation": "All four convey the same meaning. 'Because' is the most concise; 'due to the fact that' and 'in view of the fact that' are wordy versions of it.",
-  "steps": [
-   "Confirm all choices mean the same thing.",
-   "Compare their word counts.",
-   "'Because' (1 word) beats 'due to the fact that' (5 words) and 'in view of the fact that' (6 words).",
-   "The SAT nearly always rewards concision when the meaning is preserved."
-  ]
- },
- {
-  "id": "pmW14",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "medium",
-  "type": "mcq",
-  "q": "Which sentence uses the correct verb form for a hypothetical situation?",
-  "choices": [
-   "If I was rich, I would travel the world.",
-   "If I were rich, I would travel the world.",
-   "If I am rich, I would travel the world.",
-   "If I would be rich, I would travel the world."
-  ],
-  "answer": "B",
-  "hint": "Hypothetical 'if' clauses use the subjunctive — 'were,' not 'was.'",
-  "explanation": "Contrary-to-fact 'if' clauses take the subjunctive mood: 'were,' regardless of subject. 'If I were rich' — I am not actually rich.",
-  "steps": [
-   "Check whether the 'if' clause is HYPOTHETICAL (contrary to fact) or POSSIBLE.",
-   "'If I were rich, I would…' — hypothetical (I'm not rich).",
-   "Hypothetical 'if' clauses take 'were,' not 'was,' even with I/he/she/it.",
-   "'If I were you' is a familiar example of the same rule."
-  ]
- },
- {
-  "id": "pmW15",
-  "section": "Reading & Writing",
-  "category": "Grammar",
-  "difficulty": "hard",
-  "type": "mcq",
-  "q": "Which sentence is grammatically correct?",
-  "choices": [
-   "My brother he is a doctor.",
-   "My brother, he is a doctor.",
-   "My brother is a doctor.",
-   "He, my brother, is a doctor."
-  ],
-  "answer": "C",
-  "hint": "Don't follow the subject noun with a pronoun that repeats it.",
-  "explanation": "The subject ('My brother') is already named — adding 'he' is a redundant pronoun. (D) is technically grammatical but stylistically awkward and not the SAT's preferred form.",
-  "steps": [
-   "Find the subject of the main clause.",
-   "If the subject is already a specific noun, don't add a pronoun that restates it.",
-   "'My brother he is' is wrong — pick 'My brother is.'"
-  ]
- },
- {
-  "id": "pmC01",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "medium",
-  "type": "mcq",
-  "passage": "Recent studies have shown that certain species of deep-sea bacteria can survive under pressures exceeding 1,000 atmospheres. These bacteria produce unique enzymes that maintain their structure at such extremes — enzymes that quickly denature when brought to sea-level pressure. Researchers hope to isolate these enzymes for industrial applications, but doing so requires developing new preservation techniques.",
-  "q": "Which of the following can be most reasonably inferred from the passage?",
-  "choices": [
-   "All deep-sea bacteria produce enzymes usable in industry.",
-   "The enzymes' commercial use depends on solving a pressure-preservation problem.",
-   "Deep-sea bacteria will replace surface bacteria in most industries.",
-   "The enzymes are already being manufactured for consumer products."
-  ],
-  "answer": "B",
-  "hint": "An inference must stay within what the passage explicitly supports. Reject anything the passage doesn't say.",
-  "explanation": "The passage says researchers 'hope to isolate these enzymes' but 'doing so requires developing new preservation techniques.' That directly implies (B). (A) overreaches ('all'); (C) is unsupported; (D) contradicts the passage.",
-  "steps": [
-   "Find the passage's linkage: enzymes denature at sea-level pressure, so commercial use needs a preservation solution.",
-   "Match choices back to that linkage.",
-   "(B) restates the linkage precisely.",
-   "Eliminate the too-strong ('all,' 'replace most'), speculative ('will'), and directly contradicted ('already… manufactured') choices."
-  ]
- },
- {
-  "id": "pmC02",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "medium",
-  "type": "mcq",
-  "passage": "The bicycle revolutionized personal transportation in the late 19th century. Prior to its widespread adoption, workers were largely bound to jobs within walking distance of their homes. The bicycle expanded that radius dramatically. Consequently, some historians credit the bicycle with contributing to social mobility and the loosening of class-based residential patterns in industrial cities.",
-  "q": "What is the primary purpose of the passage's final sentence ('Consequently, some historians credit…')?",
-  "choices": [
-   "To identify a specific inventor of the bicycle.",
-   "To draw a broader social-historical implication of the bicycle's spread.",
-   "To argue that bicycles were the sole cause of urban change.",
-   "To describe the mechanics of how bicycles work."
-  ],
-  "answer": "B",
-  "hint": "Ask what JOB the sentence does — its function — not what it says.",
-  "explanation": "The sentence begins with 'Consequently' (signaling a conclusion) and cites historians drawing a wider social claim. That's an implication being drawn. (A) and (D) miss the topic; (C) is too strong ('sole cause').",
-  "steps": [
-   "Identify the sentence's connector: 'Consequently' signals a conclusion drawn from evidence.",
-   "The conclusion is a broad social claim (mobility, class patterns).",
-   "The purpose is to draw a broader implication — matches (B).",
-   "Watch out for (C) — 'sole cause' overreaches ('some historians credit' is hedged)."
-  ]
- },
- {
-  "id": "pmC03",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "hard",
-  "type": "mcq",
-  "passage": "Text 1: Advocates of remote work point to productivity gains, citing studies where teams working from home outperformed office-based counterparts on measurable output. Reduced commutes and fewer interruptions, they argue, account for the difference.\n\nText 2: Critics of remote work counter that measurable output tells only part of the story. Long-term innovation, they claim, depends on informal collaboration that is far more likely to occur in shared physical space than through scheduled video calls.",
-  "q": "How would the author of Text 2 most likely respond to the argument in Text 1?",
-  "choices": [
-   "By denying that any productivity gains have occurred.",
-   "By arguing that short-term output measures may miss longer-term costs.",
-   "By agreeing entirely with the productivity claim.",
-   "By claiming that all innovation happens in offices."
-  ],
-  "answer": "B",
-  "hint": "Cross-text answers usually qualify or extend — rarely full rejection. Watch for extreme words in the choices.",
-  "explanation": "Text 2 doesn't dispute the productivity claim ('measurable output tells only part of the story') — it points to a longer-term cost (innovation). That's exactly (B). (A) is too strong; (D) contains 'all,' which overreaches.",
-  "steps": [
-   "State each author's core claim in one line.",
-   "Text 1: remote work boosts productivity (measurable output).",
-   "Text 2: those measures miss long-term innovation costs — a qualification, not a rejection.",
-   "(B) names that qualification. (A) and (D) contain extreme words ('any,' 'all') that overshoot Text 2's actual argument."
-  ]
- },
- {
-  "id": "pmC04",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "medium",
-  "type": "mcq",
-  "passage": "The novelist's later works are marked by a certain sobriety absent from her earlier fiction. Where her first novels indulged in ornate metaphor and lavish description, her final books strip away decoration, presenting scenes with almost documentary restraint.",
-  "q": "As used in the passage, 'sobriety' most nearly means:",
-  "choices": [
-   "drunkenness",
-   "restraint",
-   "sadness",
-   "boredom"
-  ],
-  "answer": "B",
-  "hint": "Vocabulary-in-context clues sit in the passage itself. Look for synonyms or contrasts.",
-  "explanation": "The passage explicitly contrasts 'ornate metaphor and lavish description' with 'strip away decoration' and 'documentary restraint.' 'Sobriety' here means restraint — a seriousness of style — not literal soberness.",
-  "steps": [
-   "Identify the contrasts and synonyms in the passage.",
-   "'Sobriety' is contrasted with 'ornate' and 'lavish,' and matched with 'strip away decoration' and 'documentary restraint.'",
-   "The best synonym is 'restraint.'",
-   "The common meaning ('drunkenness/soberness') is a distractor — always let the passage guide the definition."
-  ]
- },
- {
-  "id": "pmC05",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "hard",
-  "type": "mcq",
-  "passage": "Eleanor stood at the window, watching the last of the day's light fade behind the ridge. Behind her, the house was silent — the family had gone to bed hours ago. She had been meaning to write a letter, to explain herself, but the words never came. Perhaps, she thought, they would never come. Perhaps some things simply had to remain unsaid.",
-  "q": "The passage primarily establishes:",
-  "choices": [
-   "Eleanor's inability to articulate something she wishes to express.",
-   "A description of the physical setting of the house.",
-   "A dispute between family members.",
-   "Eleanor's resentment toward her family."
-  ],
-  "answer": "A",
-  "hint": "Central-idea questions favor the theme that spans the whole passage, not one detail.",
-  "explanation": "Every sentence after the first involves Eleanor trying but failing to find words: 'she had been meaning to write… the words never came… perhaps they would never come.' That IS the passage's center. (B), (C), (D) are either secondary or unsupported.",
-  "steps": [
-   "Find the through-line — the theme every sentence contributes to.",
-   "Sentences 2–5 all concern words Eleanor cannot say.",
-   "Sentence 1 (setting) is scaffolding for that central idea, not the point itself.",
-   "(A) names the central idea; the others focus on details or invent tension not in the text."
-  ]
- },
- {
-  "id": "pmC06",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "medium",
-  "type": "mcq",
-  "passage": "A 2023 city study reported that after installation of new bike lanes on Main Street, average vehicle speeds dropped by 8 mph, while pedestrian injuries fell by 40% over the following year. Cyclist commuting on the corridor increased by 60%. Traffic engineers noted, however, that overall vehicle throughput remained roughly unchanged.",
-  "q": "Which conclusion is most directly supported by the study?",
-  "choices": [
-   "The bike lanes eliminated pedestrian injuries.",
-   "The bike lanes reduced vehicle throughput on Main Street.",
-   "The bike lanes were associated with slower traffic and fewer pedestrian injuries without reducing vehicle throughput.",
-   "The bike lanes made cyclists the majority commuters on Main Street."
-  ],
-  "answer": "C",
-  "hint": "Match the answer at the EXACT level of the data — no stronger, no weaker.",
-  "explanation": "The passage states each of (C)'s claims: speeds fell, injuries fell 40%, throughput 'remained roughly unchanged.' (A) says 'eliminated' but the drop was 40% — too strong. (B) contradicts the passage. (D) is unsupported (60% increase ≠ majority).",
-  "steps": [
-   "Underline what the study actually reports: slower speeds, 40% fewer injuries, more cyclists, unchanged throughput.",
-   "Compare each choice to those exact claims.",
-   "(A) 'eliminated' overstates 40%.",
-   "(B) contradicts 'unchanged throughput.'",
-   "(D) invents a majority claim.",
-   "(C) restates the study at its stated level — the correct level of confidence."
-  ]
- },
- {
-  "id": "pmC07",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "hard",
-  "type": "mcq",
-  "passage": "The construction of the transcontinental railroad in the 1860s was a remarkable feat of engineering, but its labor history is often overlooked. Chinese immigrant workers formed the backbone of the western crew, laying track through the treacherous terrain of the Sierra Nevada. Despite their essential contributions, these workers were paid substantially less than their white counterparts and were largely excluded from commemorations of the railroad's completion.",
-  "q": "Which statement is most directly supported by the passage?",
-  "choices": [
-   "Chinese workers were the only laborers on the western portion of the railroad.",
-   "The passage frames the workers' contributions as essential but historically underrecognized.",
-   "The Sierra Nevada was easy to build through.",
-   "Commemorations of the railroad's completion included representatives of all worker groups."
-  ],
-  "answer": "B",
-  "hint": "On inference questions, watch for choices that contradict specific words in the passage.",
-  "explanation": "The passage calls the contributions 'essential' and notes exclusion from commemorations — precisely (B). (A) is too strong ('only'); (C) contradicts 'treacherous'; (D) contradicts 'largely excluded.'",
-  "steps": [
-   "Identify the passage's framing: essential contributions + historically overlooked/excluded.",
-   "Check each choice against the passage's exact wording.",
-   "(A) 'the only' overreaches — the passage says 'backbone,' not 'only.'",
-   "(C) directly contradicts 'treacherous.'",
-   "(D) directly contradicts 'largely excluded.'",
-   "(B) is the accurate framing."
-  ]
- },
- {
-  "id": "pmC08",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "medium",
-  "type": "mcq",
-  "passage": "The recent surge in interest in classical philology, one is tempted to say, is entirely welcome. Yet even the most enthusiastic revival has its limits: not every long-neglected work merits reintroduction to modern readers, and scholars would do well to distinguish between recovery and mere resurrection for its own sake.",
-  "q": "The author's attitude toward the revival of interest in classical philology is best described as:",
-  "choices": [
-   "unreservedly enthusiastic",
-   "qualified approval",
-   "sharply hostile",
-   "completely indifferent"
-  ],
-  "answer": "B",
-  "hint": "'Yet,' 'however,' and 'but' often signal the tone is more nuanced than a single-word choice suggests.",
-  "explanation": "The author calls the revival 'entirely welcome' (positive), then adds 'Yet even the most enthusiastic revival has its limits' (a caveat). That's qualified approval. (A) misses the caveat; (C) and (D) miss the initial positivity.",
-  "steps": [
-   "Note the positive statements: 'entirely welcome.'",
-   "Note the reservations: 'Yet… limits,' 'distinguish… recovery from mere resurrection.'",
-   "The tone combines both — qualified approval, not full enthusiasm or hostility.",
-   "(B) is the only choice that reflects the both-sides tone."
-  ]
- },
- {
-  "id": "pmC09",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "hard",
-  "type": "mcq",
-  "passage": "A biologist hypothesized that a certain fish species could adapt to warming ocean temperatures within a few generations. To test this, she raised the fish for four generations in progressively warmer water and measured their survival rate.",
-  "q": "Which finding would most strongly support the hypothesis?",
-  "choices": [
-   "The fish in the first generation showed no change in survival rate.",
-   "By the fourth generation, survival rates in warm water approached those of the original population in cool water.",
-   "The fish grew larger over the four generations.",
-   "The biologist observed the fish for four years total."
-  ],
-  "answer": "B",
-  "hint": "The right finding must match the specific outcome the hypothesis predicts (adaptation in a few generations).",
-  "explanation": "The hypothesis predicts adaptation within a few generations. (B) shows exactly that — after four generations, survival in warm water recovers to the original baseline. (A) shows no adaptation early (not disconfirming, but not supportive alone); (C) and (D) don't address adaptation or survival.",
-  "steps": [
-   "Restate the hypothesis in your own words: the fish adapt (survive well) in warm water within a few generations.",
-   "Ask what finding would directly demonstrate that.",
-   "(B) shows survival recovering by generation 4 — direct evidence of adaptation.",
-   "The other choices either don't address survival or don't address adaptation."
-  ]
- },
- {
-  "id": "pmC10",
-  "section": "Reading & Writing",
-  "category": "Reading Comprehension",
-  "difficulty": "hard",
-  "type": "mcq",
-  "passage": "Text 1: Rapid urbanization has been associated with substantial economic gains for developing nations. Cities offer denser labor markets, faster diffusion of technology, and greater access to healthcare and education than rural regions.\n\nText 2: Yet the benefits of urbanization are not evenly distributed. Migrants to fast-growing cities often live in informal settlements with limited services, and studies have shown that health outcomes in such settlements can be worse than in the villages migrants left.",
-  "q": "How would the author of Text 2 most likely characterize the argument in Text 1?",
-  "choices": [
-   "As entirely wrong.",
-   "As overlooking important distributional inequities.",
-   "As completely correct on all points.",
-   "As ignoring the environmental costs of cities."
-  ],
-  "answer": "B",
-  "hint": "When Text 2 opens with 'Yet,' expect a qualifier answer (not full rejection or full agreement).",
-  "explanation": "Text 2 doesn't dispute the aggregate claim — it points out that benefits 'are not evenly distributed' and cites specific groups (informal-settlement migrants) who fare worse. That's (B). (D) mentions the environment, which Text 2 doesn't discuss.",
-  "steps": [
-   "State each author's position.",
-   "Text 1: urbanization brings aggregate benefits.",
-   "Text 2: those benefits are unevenly distributed; some migrants fare worse.",
-   "Text 2 isn't rejecting or fully agreeing — it's qualifying with a distributional critique.",
-   "(B) names that distributional critique. (D) invents a topic (environment) Text 2 never raises."
-  ]
- }
+  {
+    "id": "pmA01",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "If 4x + 3 = 19, what is the value of x?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "16"
+    ],
+    "answer": "A",
+    "explanation": "Subtract 3 from both sides: 4x = 16. Divide by 4: x = 4."
+  },
+  {
+    "id": "pmA02",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "A line has slope 2 and passes through (1, 3). What is its equation in slope-intercept form?",
+    "choices": [
+      "y = 2x + 1",
+      "y = 2x + 3",
+      "y = 2x − 1",
+      "y = 2x + 2"
+    ],
+    "answer": "A",
+    "explanation": "y = mx + b. Plug in (1, 3): 3 = 2(1) + b → b = 1. So y = 2x + 1."
+  },
+  {
+    "id": "pmA03",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "If 2x + 3y = 12 and x − y = 1, what is the value of x + y?",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "C",
+    "explanation": "From x − y = 1, x = y + 1. Substitute: 2(y+1) + 3y = 12 → 5y = 10 → y = 2, x = 3. So x + y = 5."
+  },
+  {
+    "id": "pmA04",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "For what values of x is 3x − 5 ≥ 7?",
+    "choices": [
+      "x ≥ 4",
+      "x ≤ 4",
+      "x ≥ 2",
+      "x ≤ 12"
+    ],
+    "answer": "A",
+    "explanation": "Add 5: 3x ≥ 12. Divide by 3 (positive — no flip): x ≥ 4."
+  },
+  {
+    "id": "pmA05",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "A taxi charges a $3 initial fee plus $2.50 per mile. If a ride costs $18 total, how many miles was the ride?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "7.5"
+    ],
+    "answer": "B",
+    "explanation": "3 + 2.5m = 18 → 2.5m = 15 → m = 6."
+  },
+  {
+    "id": "pmA06",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "The function f is defined by f(x) = 5 − 2x. If f(a) = −7, what is a?",
+    "choices": [
+      "−6",
+      "6",
+      "1",
+      "−1"
+    ],
+    "answer": "B",
+    "explanation": "5 − 2a = −7 → −2a = −12 → a = 6."
+  },
+  {
+    "id": "pmA07",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "medium",
+    "type": "grid",
+    "q": "What is the smallest value of x for which |2x − 6| = 4?",
+    "answer": "1",
+    "explanation": "|2x − 6| = 4 has two cases. 2x − 6 = 4 → x = 5, OR 2x − 6 = −4 → x = 1. The smaller is 1."
+  },
+  {
+    "id": "pmA08",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A line passes through (−2, 4) and (3, −6). What is the slope of the line?",
+    "choices": [
+      "−2",
+      "2",
+      "−1/2",
+      "1/2"
+    ],
+    "answer": "A",
+    "explanation": "Slope = (−6 − 4) / (3 − (−2)) = −10 / 5 = −2. Watch the signs — sign errors give +2."
+  },
+  {
+    "id": "pmA09",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "For what value of c does the system 2x + y = 8 and 4x + 2y = c have infinitely many solutions?",
+    "choices": [
+      "4",
+      "8",
+      "16",
+      "Any value of c"
+    ],
+    "answer": "C",
+    "explanation": "The left side of equation 2 is 2×(left side of eq 1). For the same line, the right side must also be 2 × 8 = 16.",
+    "hint": "For infinitely many solutions, the two equations must be the SAME line — same left AND same right side (as scalar multiples).",
+    "steps": [
+      "For a system to have infinitely many solutions, the two equations must describe the same line.",
+      "Compare left sides: 4x + 2y is exactly 2 × (2x + y). So equation 2's left side is 2 × equation 1's left side.",
+      "For the same line, the right side must also match that multiple: c = 2 × 8 = 16."
+    ]
+  },
+  {
+    "id": "pmA10",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "Sarah has $45 and saves $8 each week. After how many weeks will she have $125 in total?",
+    "choices": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "B",
+    "explanation": "45 + 8w = 125 → 8w = 80 → w = 10."
+  },
+  {
+    "id": "pmA11",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "medium",
+    "type": "grid",
+    "q": "If 3(x − 2) = 2x + 7, what is the value of x?",
+    "answer": "13",
+    "explanation": "Distribute: 3x − 6 = 2x + 7. Subtract 2x: x − 6 = 7. Add 6: x = 13."
+  },
+  {
+    "id": "pmA12",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "A linear function models total cost: C(n) = 50 + 12n, where n is the number of items produced. Which statement best interprets the function?",
+    "choices": [
+      "Each item costs $62 to produce.",
+      "Producing 0 items costs $50, and each additional item adds $12 to the cost.",
+      "Each item costs $50, plus $12 in shipping.",
+      "The total cost is $62n for n items."
+    ],
+    "answer": "B",
+    "explanation": "The y-intercept (50) is the fixed cost at n = 0; the slope (12) is the added cost per item. (B) reads both correctly.",
+    "hint": "In C(n) = a + bn, 'a' is what you pay when n = 0; 'b' is what each unit adds.",
+    "steps": [
+      "Identify the two parts of C(n) = 50 + 12n.",
+      "The constant term (50) is the y-intercept — the cost when n = 0 items.",
+      "The coefficient of n (12) is the slope — the cost added per additional item.",
+      "(B) correctly names both: $50 fixed cost + $12 per item."
+    ]
+  },
+  {
+    "id": "pmG01",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "A right triangle has legs of length 5 and 12. What is the length of the hypotenuse?",
+    "choices": [
+      "13",
+      "17",
+      "119",
+      "169"
+    ],
+    "answer": "A",
+    "explanation": "5² + 12² = 25 + 144 = 169, so the hypotenuse is √169 = 13. (5-12-13 is a Pythagorean triple worth memorizing.)"
+  },
+  {
+    "id": "pmG02",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "easy",
+    "type": "grid",
+    "q": "A triangle has a base of 14 and a height of 9. What is its area?",
+    "answer": "63",
+    "explanation": "Area = ½ × base × height = ½ × 14 × 9 = 63."
+  },
+  {
+    "id": "pmG03",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A circle has a circumference of 10π. What is its area?",
+    "choices": [
+      "5π",
+      "10π",
+      "25π",
+      "100π"
+    ],
+    "answer": "C",
+    "explanation": "C = 2πr = 10π, so r = 5. Then Area = πr² = π(5)² = 25π."
+  },
+  {
+    "id": "pmG04",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "What is the distance between the points (1, 2) and (4, 6) in the xy-plane?",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": "C",
+    "explanation": "d = √((4−1)² + (6−2)²) = √(9 + 16) = √25 = 5. (A 3-4-5 triangle.)"
+  },
+  {
+    "id": "pmG05",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "In a right triangle, an angle θ has an opposite side of 8, an adjacent side of 6, and a hypotenuse of 10. What is tan θ?",
+    "choices": [
+      "3/4",
+      "4/3",
+      "4/5",
+      "3/5"
+    ],
+    "answer": "B",
+    "explanation": "TOA: tan = Opposite / Adjacent = 8 / 6 = 4/3."
+  },
+  {
+    "id": "pmG06",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "grid",
+    "q": "A rectangular box has length 5, width 3, and height 4. What is its volume?",
+    "answer": "60",
+    "explanation": "V = length × width × height = 5 × 3 × 4 = 60."
+  },
+  {
+    "id": "pmG07",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "In a right triangle, one acute angle measures 30° and the hypotenuse has length 12. What is the length of the side opposite the 30° angle?",
+    "choices": [
+      "4",
+      "6",
+      "6√3",
+      "12"
+    ],
+    "answer": "B",
+    "explanation": "In a 30-60-90 triangle, the side opposite 30° = hypotenuse / 2. So 12 / 2 = 6. (The reference sheet provides this ratio.)"
+  },
+  {
+    "id": "pmG08",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "A circle in the xy-plane has center (3, −4) and radius 5. Which of the following points lies on the circle?",
+    "choices": [
+      "(0, 0)",
+      "(3, 0)",
+      "(5, −4)",
+      "(3, −5)"
+    ],
+    "answer": "A",
+    "explanation": "Check the distance from each point to (3, −4). For (0, 0): √(9 + 16) = √25 = 5. ✓ The others give 4, 2, and 1.",
+    "hint": "A point lies on the circle only if its DISTANCE from the center equals the radius exactly.",
+    "steps": [
+      "A point lies on a circle when its distance from the center equals the radius.",
+      "Center is (3, −4), radius is 5.",
+      "For (0, 0): d = √((0−3)² + (0−(−4))²) = √(9+16) = √25 = 5. ✓",
+      "The others give distances 4, 2, and 1 — none equal 5."
+    ]
+  },
+  {
+    "id": "pmG09",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "Two similar triangles have corresponding sides in the ratio 3 : 5. If the area of the smaller triangle is 18, what is the area of the larger triangle?",
+    "choices": [
+      "30",
+      "45",
+      "50",
+      "90"
+    ],
+    "answer": "C",
+    "explanation": "Areas of similar figures scale by the SQUARE of the side ratio: (3/5)² = 9/25. Larger area = 18 × (25/9) = 50.",
+    "hint": "For similar figures, the RATIO OF AREAS is the SQUARE of the ratio of sides.",
+    "steps": [
+      "For similar figures, side ratio k means area ratio k².",
+      "Sides are 3 : 5, so areas are 9 : 25.",
+      "Set up: 18 / large = 9 / 25.",
+      "Solve: large = 18 × 25 / 9 = 50."
+    ]
+  },
+  {
+    "id": "pmG10",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "If sin(x°) = 0.4, what is the value of cos((90 − x)°)?",
+    "choices": [
+      "0.4",
+      "0.6",
+      "0.8",
+      "0.96"
+    ],
+    "answer": "A",
+    "explanation": "Complementary identity: cos(90° − x) = sin(x). So cos((90 − x)°) = sin(x°) = 0.4. (Don't compute cos(x) — the question asks for the complement.)"
+  },
+  {
+    "id": "pmV01",
+    "section": "Math",
+    "category": "Advanced Math",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "What are the solutions of x² − 7x + 12 = 0?",
+    "choices": [
+      "3 and 4",
+      "−3 and −4",
+      "2 and 6",
+      "1 and 12"
+    ],
+    "answer": "A",
+    "explanation": "Factor: (x − 3)(x − 4) = 0. So x = 3 or x = 4."
+  },
+  {
+    "id": "pmV02",
+    "section": "Math",
+    "category": "Advanced Math",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "How many real solutions does the equation x² + 4x + 5 = 0 have?",
+    "choices": [
+      "Two",
+      "One",
+      "None",
+      "Cannot be determined"
+    ],
+    "answer": "C",
+    "explanation": "Discriminant b² − 4ac = 16 − 20 = −4 < 0. A negative discriminant means no real solutions."
+  },
+  {
+    "id": "pmV03",
+    "section": "Math",
+    "category": "Advanced Math",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A bank account starts with $500 and earns 6% interest per year, compounded annually. Which expression gives the balance after t years?",
+    "choices": [
+      "500 + 0.06·t",
+      "500·(1 + 0.06·t)",
+      "500·(1.06)^t",
+      "500·(0.06)^t"
+    ],
+    "answer": "C",
+    "explanation": "Compound annual growth multiplies by (1 + rate) each year, raised to t: 500·(1.06)^t."
+  },
+  {
+    "id": "pmV04",
+    "section": "Math",
+    "category": "Advanced Math",
+    "difficulty": "medium",
+    "type": "grid",
+    "q": "If f(x) = 2x + 1 and g(x) = x², what is the value of f(g(3))?",
+    "answer": "19",
+    "explanation": "Work outside-in. g(3) = 3² = 9. Then f(9) = 2(9) + 1 = 19."
+  },
+  {
+    "id": "pmV05",
+    "section": "Math",
+    "category": "Advanced Math",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "When the polynomial p(x) is divided by (x − 2), the remainder is 5. What is the value of p(2)?",
+    "choices": [
+      "0",
+      "2",
+      "5",
+      "Cannot be determined"
+    ],
+    "answer": "C",
+    "explanation": "Remainder Theorem: when p(x) is divided by (x − a), the remainder equals p(a). So p(2) = 5.",
+    "hint": "Use the Remainder Theorem — no long division needed.",
+    "steps": [
+      "Remainder Theorem: when p(x) is divided by (x − a), the remainder equals p(a).",
+      "Here we're dividing by (x − 2), so a = 2.",
+      "The remainder is 5, so p(2) = 5."
+    ]
+  },
+  {
+    "id": "pmV06",
+    "section": "Math",
+    "category": "Advanced Math",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "The function f(x) = x² − 8x + 15 has its minimum value at which x?",
+    "choices": [
+      "−8",
+      "−4",
+      "4",
+      "8"
+    ],
+    "answer": "C",
+    "explanation": "For a quadratic ax² + bx + c, the vertex is at x = −b / (2a). Here −(−8) / (2·1) = 8/2 = 4.",
+    "hint": "For any quadratic ax² + bx + c, the vertex is at x = −b / (2a).",
+    "steps": [
+      "Vertex x-coordinate formula: x = −b / (2a).",
+      "Here a = 1, b = −8.",
+      "x = −(−8) / (2·1) = 8 / 2 = 4.",
+      "Since a > 0, the parabola opens upward and this vertex is the minimum."
+    ]
+  },
+  {
+    "id": "pmS01",
+    "section": "Math",
+    "category": "Statistics & Data",
+    "difficulty": "easy",
+    "type": "grid",
+    "q": "What is the mean of the numbers 3, 7, 9, 11, 15?",
+    "answer": "9",
+    "explanation": "Sum = 3 + 7 + 9 + 11 + 15 = 45. Mean = 45 / 5 = 9."
+  },
+  {
+    "id": "pmS02",
+    "section": "Math",
+    "category": "Statistics & Data",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A shirt that originally cost $40 is on sale for $30. What is the percent discount?",
+    "choices": [
+      "10%",
+      "20%",
+      "25%",
+      "33%"
+    ],
+    "answer": "C",
+    "explanation": "Discount amount = $40 − $30 = $10. Percent = 10 / 40 = 0.25 = 25%."
+  },
+  {
+    "id": "pmS03",
+    "section": "Math",
+    "category": "Statistics & Data",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Out of 100 students, 60 take Spanish and 40 take French. Of the Spanish students, 30 are juniors. If a randomly selected student takes Spanish, what is the probability that the student is a junior?",
+    "choices": [
+      "30/100",
+      "30/60",
+      "30/40",
+      "60/100"
+    ],
+    "answer": "B",
+    "explanation": "Conditional probability: the condition restricts the denominator. Given the student takes Spanish, the denominator is 60 (not 100), so P = 30/60 = 1/2."
+  },
+  {
+    "id": "pmS04",
+    "section": "Math",
+    "category": "Statistics & Data",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A car uses 8 gallons of gas to travel 240 miles. At this rate, how many miles can it travel on 12 gallons?",
+    "choices": [
+      "280",
+      "320",
+      "360",
+      "480"
+    ],
+    "answer": "C",
+    "explanation": "Rate = 240 / 8 = 30 miles per gallon. With 12 gallons: 30 × 12 = 360 miles."
+  },
+  {
+    "id": "pmR01",
+    "section": "Reading & Writing",
+    "category": "Punctuation",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "Which version of the sentence uses punctuation correctly?",
+    "choices": [
+      "The rain stopped and the sun came out.",
+      "The rain stopped, and the sun came out.",
+      "The rain stopped; and the sun came out.",
+      "The rain stopped and, the sun came out."
+    ],
+    "answer": "B",
+    "explanation": "Two independent clauses joined by a FANBOYS conjunction (and) take a comma BEFORE the conjunction."
+  },
+  {
+    "id": "pmR02",
+    "section": "Reading & Writing",
+    "category": "Transitions",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which transition best completes the sentence?\n\n\"Coastal cities have invested heavily in seawalls; ___, rising sea levels continue to threaten infrastructure.\"",
+    "choices": [
+      "therefore",
+      "however",
+      "for example",
+      "similarly"
+    ],
+    "answer": "B",
+    "explanation": "The second clause sets up a contrast with the investment. 'However' signals contrast; 'therefore' wrongly implies cause-effect."
+  },
+  {
+    "id": "pmR03",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which version is grammatically correct?",
+    "choices": [
+      "The collection of rare manuscripts are housed in the library.",
+      "The collection of rare manuscripts is housed in the library.",
+      "The collection of rare manuscripts have been housed in the library.",
+      "The collection of rare manuscripts were housed in the library."
+    ],
+    "answer": "B",
+    "explanation": "Cross out the prepositional phrase 'of rare manuscripts.' The true subject is 'collection' — singular — so the verb is 'is.'"
+  },
+  {
+    "id": "pmR04",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "Researchers found that a city's air quality improved sharply after a new public-transit network opened, yet automobile registrations in the city rose during the same period. The most logical explanation is that ___",
+    "choices": [
+      "the new transit reduced overall driving despite the rise in registrations.",
+      "air quality improvements always coincide with transit projects.",
+      "more registered cars means more pollution.",
+      "the new transit had no measurable effect on emissions."
+    ],
+    "answer": "A",
+    "explanation": "The paradox: more cars but cleaner air. (A) resolves the contradiction using the passage's logic — registered ≠ actively driven. (B), (C), (D) either overreach or contradict the observation.",
+    "hint": "The right answer RESOLVES the apparent contradiction using the passage's own logic.",
+    "steps": [
+      "Notice the paradox: more registered cars, yet cleaner air.",
+      "Look for the choice that resolves it without contradicting the passage.",
+      "(A) resolves it — registered ≠ actively driven; the new transit might mean people register but drive less.",
+      "(B), (C), and (D) either overreach or dismiss the observation."
+    ]
+  },
+  {
+    "id": "pmR05",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "After describing a hypothesis, an author writes: \"However, repeated trials produced no measurable effect.\" What is the main purpose of this sentence?",
+    "choices": [
+      "To restate the original hypothesis in simpler terms.",
+      "To introduce evidence that complicates the hypothesis.",
+      "To provide background information about the experiment.",
+      "To propose an alternative explanation."
+    ],
+    "answer": "B",
+    "explanation": "The word 'However' signals a turn; the failed trials push against the hypothesis. The sentence's job is to introduce challenging evidence."
+  },
+  {
+    "id": "pmR06",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Text 1 argues that remote work increases productivity by reducing distractions. Text 2 argues that remote work increases worker isolation. How would the author of Text 2 most likely respond to Text 1's claim?",
+    "choices": [
+      "Reject it as entirely false.",
+      "Acknowledge it, but emphasize that productivity is not the only relevant measure.",
+      "Agree completely with the claim.",
+      "Cite contradictory data on productivity."
+    ],
+    "answer": "B",
+    "explanation": "Text 2 doesn't deny productivity — it adds a different concern (isolation). The best response qualifies rather than rejects: (B)."
+  },
+  {
+    "id": "pmR07",
+    "section": "Reading & Writing",
+    "category": "Vocabulary in Context",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "As used in the sentence, the word \"novel\" most nearly means:\n\n\"The scientist proposed a novel approach to the problem.\"",
+    "choices": [
+      "fictional",
+      "brand-new",
+      "lengthy",
+      "cautious"
+    ],
+    "answer": "B",
+    "explanation": "In context — a scientist's approach to a problem — 'novel' means new or innovative, not a fictional book."
+  },
+  {
+    "id": "pmR08",
+    "section": "Reading & Writing",
+    "category": "Rhetoric",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Goal: emphasize the unprecedented scale of an event. Which choice best meets the goal?",
+    "choices": [
+      "The 1906 earthquake caused damage in San Francisco.",
+      "Striking with unprecedented force, the 1906 earthquake leveled large parts of San Francisco and left more than 200,000 people homeless.",
+      "Many San Franciscans were affected by the 1906 earthquake.",
+      "Historians have studied the 1906 earthquake for over a century."
+    ],
+    "answer": "B",
+    "explanation": "The goal calls for scale. (A), (C), and (D) state facts but don't convey size. (B) front-loads scale ('unprecedented force,' '200,000 homeless')."
+  },
+  {
+    "id": "pmP01",
+    "section": "Reading & Writing",
+    "category": "Punctuation",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "Which version of the sentence is punctuated correctly?",
+    "choices": [
+      "The team prepared diligently for the match and they were rewarded with a victory.",
+      "The team prepared diligently for the match, and they were rewarded with a victory.",
+      "The team prepared diligently for the match, they were rewarded with a victory.",
+      "The team prepared diligently for the match; and they were rewarded with a victory."
+    ],
+    "answer": "B",
+    "explanation": "Two independent clauses joined by a FANBOYS conjunction ('and') need a comma BEFORE the conjunction. (A) omits the comma; (C) is a comma splice; (D) misuses the semicolon — semicolons join independent clauses without a conjunction."
+  },
+  {
+    "id": "pmP02",
+    "section": "Reading & Writing",
+    "category": "Punctuation",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which version is punctuated correctly?",
+    "choices": [
+      "Despite heavy rain, the soccer game continued as scheduled.",
+      "Despite heavy rain the soccer game continued, as scheduled.",
+      "Despite heavy rain, the soccer game, continued as scheduled.",
+      "Despite heavy rain the soccer game continued as scheduled."
+    ],
+    "answer": "A",
+    "explanation": "An introductory phrase ('Despite heavy rain') is followed by a comma. (D) omits the required intro comma; (B) and (C) drop commas inside the main clause where none are needed."
+  },
+  {
+    "id": "pmP03",
+    "section": "Reading & Writing",
+    "category": "Punctuation",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which version uses punctuation correctly?",
+    "choices": [
+      "The recipe requires three ingredients; flour, sugar, and butter.",
+      "The recipe requires three ingredients: flour, sugar, and butter.",
+      "The recipe requires three ingredients, flour, sugar, and butter.",
+      "The recipe requires; three ingredients, flour, sugar, and butter."
+    ],
+    "answer": "B",
+    "explanation": "A complete sentence followed by a list takes a COLON, not a semicolon. A semicolon (A) works only between two independent clauses; (C) is a comma splice; (D) misplaces the semicolon entirely."
+  },
+  {
+    "id": "pmP04",
+    "section": "Reading & Writing",
+    "category": "Punctuation",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "The writer has only one sister. Which sentence is punctuated correctly?",
+    "choices": [
+      "My sister who lives in Boston is a doctor.",
+      "My sister, who lives in Boston is a doctor.",
+      "My sister, who lives in Boston, is a doctor.",
+      "My sister who lives in Boston, is a doctor."
+    ],
+    "answer": "C",
+    "explanation": "With only one sister, 'who lives in Boston' is non-essential extra information — set it off with commas on BOTH sides. (A) omits both commas; (B) and (D) include only one — both wrong."
+  },
+  {
+    "id": "pmP05",
+    "section": "Reading & Writing",
+    "category": "Punctuation",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "Which sentence is punctuated correctly?",
+    "choices": [
+      "I packed sandwiches, fruit and water.",
+      "I packed sandwiches, fruit, and water.",
+      "I packed sandwiches and fruit, and water.",
+      "I packed; sandwiches, fruit, and water."
+    ],
+    "answer": "B",
+    "explanation": "A three-item series takes commas between items, and the SAT uses the Oxford comma (the one before 'and'). (A) omits it; (C) inserts an extra 'and'; (D) misuses a semicolon."
+  },
+  {
+    "id": "pmP06",
+    "section": "Reading & Writing",
+    "category": "Punctuation",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which version is punctuated correctly?",
+    "choices": [
+      "The new policy — surprising as it was — passed unanimously.",
+      "The new policy, surprising as it was — passed unanimously.",
+      "The new policy — surprising as it was, passed unanimously.",
+      "The new policy surprising as it was, passed unanimously."
+    ],
+    "answer": "A",
+    "explanation": "A parenthetical phrase set off in the middle of a sentence must use MATCHING punctuation on both sides — two em dashes, or two commas. Mixing them (B, C) is wrong; (D) drops the punctuation entirely."
+  },
+  {
+    "id": "pmP07",
+    "section": "Reading & Writing",
+    "category": "Punctuation",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "Which version correctly joins the two clauses?",
+    "choices": [
+      "The data was surprising, the team requested a second analysis.",
+      "The data was surprising the team requested a second analysis.",
+      "The data was surprising; the team requested a second analysis.",
+      "The data was surprising, however, the team requested a second analysis."
+    ],
+    "answer": "C",
+    "explanation": "Two independent clauses with no conjunction need a semicolon. (A) is a comma splice; (B) is a run-on; (D) is also a comma splice — 'however' is an adverb, not a conjunction, so it needs a semicolon BEFORE it (e.g., '...surprising; however, the team...')."
+  },
+  {
+    "id": "pmW01",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which version is grammatically correct?",
+    "choices": [
+      "Neither the principal nor the teachers was aware of the change.",
+      "Neither the principal nor the teachers were aware of the change.",
+      "Neither the principal nor the teachers is aware of the change.",
+      "Neither the principal nor the teachers has been aware of the change."
+    ],
+    "answer": "B",
+    "explanation": "With 'neither...nor' the verb agrees with the subject CLOSEST to it. 'teachers' (plural) is closer, so use 'were.' This is a classic SAT trap — most students pick (A) by default."
+  },
+  {
+    "id": "pmW02",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which version is grammatically correct?",
+    "choices": [
+      "Every student must bring their textbook to class.",
+      "Every student must bring his or her textbook to class.",
+      "Every student must bring our textbook to class.",
+      "Every student must bring textbooks to class."
+    ],
+    "answer": "B",
+    "explanation": "The antecedent 'Every student' is singular, so the pronoun must be singular too. SAT grammar favors 'his or her' over the conversational 'their' for singular antecedents. (D) changes the meaning."
+  },
+  {
+    "id": "pmW03",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which version uses verb tense correctly?",
+    "choices": [
+      "She walked into the room and notices a strange smell.",
+      "She walks into the room and noticed a strange smell.",
+      "She walked into the room and noticed a strange smell.",
+      "She had walked into the room and notices a strange smell."
+    ],
+    "answer": "C",
+    "explanation": "Both actions occur in the same time frame and must match. 'walked...noticed' keeps a consistent past tense. The other choices switch between past and present with no reason."
+  },
+  {
+    "id": "pmW04",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which sentence is free of a dangling or misplaced modifier?",
+    "choices": [
+      "Hiking in the woods, my backpack felt heavy.",
+      "Hiking in the woods, I felt my backpack getting heavy.",
+      "My backpack felt heavy hiking in the woods.",
+      "Hiking in the woods my backpack felt heavy."
+    ],
+    "answer": "B",
+    "explanation": "The opening phrase 'Hiking in the woods' must modify the subject that follows the comma. Backpacks can't hike — so the subject after the comma has to be a person. Only (B) puts 'I' there."
+  },
+  {
+    "id": "pmW05",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which version uses parallel structure correctly?",
+    "choices": [
+      "The director was known for her precision, creativity, and being thorough.",
+      "The director was known for her precision, creativity, and thoroughness.",
+      "The director was known for being precise, creative, and thoroughness.",
+      "The director was known for her precise, creative, and being thorough."
+    ],
+    "answer": "B",
+    "explanation": "Items in a list must take the same grammatical form. (B) uses three nouns — precision, creativity, thoroughness. The other choices mix nouns with phrases or adjectives, breaking the pattern."
+  },
+  {
+    "id": "pmW06",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which version correctly joins the two ideas?",
+    "choices": [
+      "The experiment failed three times, we will try again tomorrow.",
+      "The experiment failed three times we will try again tomorrow.",
+      "The experiment failed three times; we will try again tomorrow.",
+      "The experiment failed three times: we will try again tomorrow."
+    ],
+    "answer": "C",
+    "explanation": "Two independent clauses with no conjunction need a semicolon. (A) is a comma splice; (B) is a run-on; (D) misuses the colon, which requires an explanation or list to follow, not a separate complete thought."
+  },
+  {
+    "id": "pmW07",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "Which version is grammatically correct?",
+    "choices": [
+      "The list of recommended books for incoming freshmen are posted on the bulletin board.",
+      "The list of recommended books for incoming freshmen is posted on the bulletin board.",
+      "The list of recommended books for incoming freshmen, is, posted on the bulletin board.",
+      "The list of recommended books for incoming freshmen have been posted on the bulletin board."
+    ],
+    "answer": "B",
+    "explanation": "Cross out the prepositional phrases ('of recommended books for incoming freshmen'). The real subject is 'list' — singular — so use 'is.' The intervening words look plural but don't change the subject."
+  },
+  {
+    "id": "pmB01",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "A bag contains 4 red, 6 blue, and 5 green marbles. What is the probability of randomly drawing a blue marble?",
+    "choices": [
+      "4/15",
+      "6/15",
+      "5/15",
+      "6/10"
+    ],
+    "answer": "B",
+    "hint": "Probability = favorable outcomes ÷ total outcomes.",
+    "explanation": "Total = 4 + 6 + 5 = 15. P(blue) = 6/15 = 2/5.",
+    "steps": [
+      "Count the total outcomes: 4 + 6 + 5 = 15 marbles.",
+      "Count the favorable outcomes: 6 blue marbles.",
+      "Divide favorable by total: 6/15."
+    ]
+  },
+  {
+    "id": "pmB02",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "The probability that Alex misses a free throw is 0.2. If he shoots 3 free throws, what is the probability that he makes AT LEAST ONE?",
+    "choices": [
+      "0.008",
+      "0.488",
+      "0.512",
+      "0.992"
+    ],
+    "answer": "D",
+    "hint": "'At least one' problems are almost always faster using the complement rule: 1 − P(none).",
+    "explanation": "P(at least one make) = 1 − P(all miss) = 1 − (0.2)³ = 1 − 0.008 = 0.992.",
+    "steps": [
+      "'At least one' is a signal to use the complement: 1 − P(none).",
+      "P(miss all 3) = 0.2 × 0.2 × 0.2 = 0.008.",
+      "P(at least one make) = 1 − 0.008 = 0.992."
+    ]
+  },
+  {
+    "id": "pmB03",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A survey of 200 people asked about pet ownership: 80 own a dog, 60 own a cat, and 30 own both. If a randomly selected person owns a dog, what is the probability they also own a cat?",
+    "choices": [
+      "30/200",
+      "30/80",
+      "30/60",
+      "30/110"
+    ],
+    "answer": "B",
+    "hint": "'Given they own a dog' restricts the denominator — it's no longer 200.",
+    "explanation": "Conditional probability. The condition ('owns a dog') narrows the denominator to dog-owners (80). Of those, 30 also own a cat. P = 30/80 = 3/8.",
+    "steps": [
+      "The word 'given' (or 'if a randomly selected X…') signals conditional probability.",
+      "The denominator becomes the 'given' group only: dog-owners = 80.",
+      "The numerator is the intersection: own both = 30.",
+      "Answer = 30/80."
+    ]
+  },
+  {
+    "id": "pmB04",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "A fair coin is flipped twice. What is the probability of getting heads BOTH times?",
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/4"
+    ],
+    "answer": "C",
+    "hint": "Independent events combine by multiplication.",
+    "explanation": "Independent events: multiply probabilities. P(H) × P(H) = 1/2 × 1/2 = 1/4.",
+    "steps": [
+      "Each coin flip is independent — the second doesn't depend on the first.",
+      "P(heads) on any single flip = 1/2.",
+      "For BOTH events, multiply: 1/2 × 1/2 = 1/4."
+    ]
+  },
+  {
+    "id": "pmB05",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "A square dartboard has a circle inscribed in it (the circle touches all four sides). If a dart lands randomly inside the square, what is the probability it lands inside the circle?",
+    "choices": [
+      "π/2",
+      "π/4",
+      "1/π",
+      "4/π"
+    ],
+    "answer": "B",
+    "hint": "Geometric probability = favorable area ÷ total area. Use a variable for the side.",
+    "explanation": "Let the square's side = s. Area of square = s². Inscribed circle has diameter s, so radius s/2, area π(s/2)² = πs²/4. Probability = (πs²/4)/s² = π/4.",
+    "steps": [
+      "Geometric probability = favorable area ÷ total area.",
+      "Let the square have side s. Its area is s².",
+      "The inscribed circle has diameter s, so radius s/2, and area π(s/2)² = πs²/4.",
+      "Ratio: (πs²/4) ÷ s² = π/4. The s² cancels — the answer doesn't depend on the actual size."
+    ]
+  },
+  {
+    "id": "pmB06",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "easy",
+    "type": "grid",
+    "q": "In a class of 30 students, the probability that a randomly selected student takes Spanish is 3/5. How many students take Spanish?",
+    "answer": "18",
+    "hint": "Multiply the probability by the total group size to get the expected count.",
+    "explanation": "Expected count = probability × total. 3/5 × 30 = 18.",
+    "steps": [
+      "When probability × total group is asked, multiply.",
+      "3/5 × 30 = (3 × 30)/5 = 90/5 = 18."
+    ]
+  },
+  {
+    "id": "pmB07",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "At a high school, 60% of students play a sport. Of those who play a sport, 40% also play in the band. What percent of ALL students play both a sport AND band?",
+    "choices": [
+      "20%",
+      "24%",
+      "40%",
+      "100%"
+    ],
+    "answer": "B",
+    "hint": "When the second event's probability is stated 'of those who…', that's a conditional probability — multiply.",
+    "explanation": "P(sport AND band) = P(sport) × P(band | sport) = 0.60 × 0.40 = 0.24 = 24%.",
+    "steps": [
+      "Convert the percents to decimals: 60% → 0.60; 40% → 0.40.",
+      "The 40% is conditional (of sport-players), so use the multiplication rule.",
+      "0.60 × 0.40 = 0.24.",
+      "Convert back to percent: 24%."
+    ]
+  },
+  {
+    "id": "pmB08",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "In a survey of 150 voters, 90 support Candidate A and 60 support Candidate B. Of Candidate A supporters, 30 are under 40. What is the probability that a randomly selected voter is BOTH a Candidate A supporter AND under 40?",
+    "choices": [
+      "30/150",
+      "30/90",
+      "90/150",
+      "60/150"
+    ],
+    "answer": "A",
+    "hint": "'Both A and B' is not the same as 'given A' — the denominator differs.",
+    "explanation": "'Both A AND under 40' asks about the whole sample: denominator = 150, numerator = 30 (fit both). P = 30/150 = 1/5.",
+    "steps": [
+      "Read carefully: 'both X AND Y' means the whole group is the denominator.",
+      "Denominator = total sample = 150.",
+      "Numerator = people fitting BOTH criteria = 30.",
+      "P = 30/150 = 1/5."
+    ]
+  },
+  {
+    "id": "pmB09",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A jar contains 5 red and 3 blue marbles. Two marbles are drawn without replacement. What is the probability both are red?",
+    "choices": [
+      "25/64",
+      "20/56",
+      "5/8",
+      "10/56"
+    ],
+    "answer": "B",
+    "hint": "'Without replacement' means the second draw's probabilities change.",
+    "explanation": "P(1st red) = 5/8. After removing that red: 4 red left out of 7 total. P(2nd red | 1st red) = 4/7. Multiply: 5/8 × 4/7 = 20/56 = 5/14.",
+    "steps": [
+      "Without replacement means the second event depends on the first.",
+      "P(1st red) = 5/8.",
+      "After removing that one red, 4 red remain and 7 total: P(2nd red) = 4/7.",
+      "Multiply: 5/8 × 4/7 = 20/56."
+    ]
+  },
+  {
+    "id": "pmB10",
+    "section": "Math",
+    "category": "Probability",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "A machine has two independent components. Component A fails with probability 0.1; Component B fails with probability 0.05. What is the probability that AT LEAST ONE component fails?",
+    "choices": [
+      "0.005",
+      "0.145",
+      "0.15",
+      "0.855"
+    ],
+    "answer": "B",
+    "hint": "Combine 'at least one' with independence: use 1 − P(neither fails).",
+    "explanation": "P(at least one fails) = 1 − P(neither fails) = 1 − (0.9)(0.95) = 1 − 0.855 = 0.145.",
+    "steps": [
+      "Use the complement rule for 'at least one.'",
+      "P(A doesn't fail) = 1 − 0.1 = 0.9. P(B doesn't fail) = 1 − 0.05 = 0.95.",
+      "Since A and B are independent, P(neither fails) = 0.9 × 0.95 = 0.855.",
+      "P(at least one fails) = 1 − 0.855 = 0.145.  (Not 0.15 — the small extra 0.005 comes from both failing together.)"
+    ]
+  },
+  {
+    "id": "pmG11",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "In a triangle, two angles measure 50° and 70°. What is the measure of the third angle?",
+    "choices": [
+      "40°",
+      "50°",
+      "60°",
+      "70°"
+    ],
+    "answer": "C",
+    "hint": "Interior angles of a triangle sum to 180°.",
+    "explanation": "180° − 50° − 70° = 60°.",
+    "steps": [
+      "The three interior angles of any triangle sum to 180°.",
+      "Add the given angles: 50 + 70 = 120°.",
+      "Third angle = 180 − 120 = 60°."
+    ]
+  },
+  {
+    "id": "pmG12",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Two parallel lines are cut by a transversal. One angle formed measures 65°. What is the measure of its alternate interior angle?",
+    "choices": [
+      "25°",
+      "65°",
+      "90°",
+      "115°"
+    ],
+    "answer": "B",
+    "hint": "Learn the parallel-line angle pairs: alternate interior angles are equal.",
+    "explanation": "When parallel lines are cut by a transversal, alternate interior angles are congruent (equal).",
+    "steps": [
+      "Identify the pair: 'alternate interior' angles sit on opposite sides of the transversal, between the two parallel lines.",
+      "Rule: parallel lines make alternate interior angles equal.",
+      "Answer: 65°."
+    ]
+  },
+  {
+    "id": "pmG13",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A circle has radius 6. What is the length of an arc subtended by a central angle of 60°?",
+    "choices": [
+      "π",
+      "2π",
+      "6π",
+      "12π"
+    ],
+    "answer": "B",
+    "hint": "An arc is a fraction (θ/360) of the full circumference.",
+    "explanation": "Arc length = (θ/360) × 2πr = (60/360) × 12π = (1/6)(12π) = 2π.",
+    "steps": [
+      "Arc-length formula: (θ/360) × circumference.",
+      "Full circumference = 2π(6) = 12π.",
+      "Fraction of the circle: 60/360 = 1/6.",
+      "Arc = (1/6)(12π) = 2π."
+    ]
+  },
+  {
+    "id": "pmG14",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A circular pizza has radius 8 inches. A slice cuts a 45° sector. What is the area of the slice, in square inches?",
+    "choices": [
+      "8π",
+      "16π",
+      "32π",
+      "64π"
+    ],
+    "answer": "A",
+    "hint": "A sector is a fraction (θ/360) of the whole circle's area.",
+    "explanation": "Sector area = (θ/360) × πr² = (45/360) × π(8)² = (1/8)(64π) = 8π.",
+    "steps": [
+      "Sector-area formula: (θ/360) × total area of circle.",
+      "Total area = π(8)² = 64π.",
+      "Fraction: 45/360 = 1/8.",
+      "Sector area = (1/8)(64π) = 8π."
+    ]
+  },
+  {
+    "id": "pmG15",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "In a circle, an inscribed angle intercepts an arc measuring 80°. What is the measure of the inscribed angle?",
+    "choices": [
+      "20°",
+      "40°",
+      "80°",
+      "160°"
+    ],
+    "answer": "B",
+    "hint": "Inscribed-angle theorem: the inscribed angle is HALF its intercepted arc.",
+    "explanation": "By the inscribed-angle theorem, an inscribed angle equals ½ its intercepted arc. 80° ÷ 2 = 40°.",
+    "steps": [
+      "Recall the inscribed-angle theorem: inscribed angle = ½ × intercepted arc.",
+      "Intercepted arc = 80°.",
+      "Inscribed angle = 80/2 = 40°."
+    ]
+  },
+  {
+    "id": "pmG16",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A line has slope 3. What is the slope of a line perpendicular to it?",
+    "choices": [
+      "3",
+      "−3",
+      "1/3",
+      "−1/3"
+    ],
+    "answer": "D",
+    "hint": "Perpendicular slopes multiply to −1 — flip the slope and change its sign.",
+    "explanation": "Perpendicular slopes are negative reciprocals. The negative reciprocal of 3 is −1/3.",
+    "steps": [
+      "Rule: perpendicular slopes multiply to −1.",
+      "Take the original slope 3, flip it: 1/3.",
+      "Change the sign: −1/3."
+    ]
+  },
+  {
+    "id": "pmG17",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "A cone has radius 3 and height 8. What is its volume? (Volume of a cone = (1/3)πr²h.)",
+    "choices": [
+      "12π",
+      "24π",
+      "36π",
+      "72π"
+    ],
+    "answer": "B",
+    "hint": "Don't forget the 1/3 factor — it's what separates cone volume from cylinder volume.",
+    "explanation": "V = (1/3)π(3)²(8) = (1/3)(9π)(8) = 72π/3 = 24π.",
+    "steps": [
+      "Formula: V = (1/3)πr²h (given, and on the reference sheet).",
+      "Substitute r = 3, h = 8: V = (1/3)π(9)(8).",
+      "Compute: (1/3)(72π) = 24π."
+    ]
+  },
+  {
+    "id": "pmG18",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "A circle in the xy-plane is centered at the origin and passes through the point (5, 12). What is the equation of the circle?",
+    "choices": [
+      "x² + y² = 13",
+      "x² + y² = 17",
+      "x² + y² = 144",
+      "x² + y² = 169"
+    ],
+    "answer": "D",
+    "hint": "For a circle centered at the origin, the equation is x² + y² = r². The right side is r-SQUARED.",
+    "explanation": "Radius = distance from origin to (5, 12) = √(25 + 144) = √169 = 13. Equation: x² + y² = r² = 169.",
+    "steps": [
+      "Standard form of a circle centered at the origin: x² + y² = r².",
+      "Find r as the distance from center (0,0) to the given point (5, 12): √(5² + 12²) = √169 = 13.  (A 5-12-13 triple.)",
+      "The equation uses r², so 13² = 169.",
+      "Answer: x² + y² = 169. The common trap is picking 13 (that's just r, not r²)."
+    ]
+  },
+  {
+    "id": "pmG19",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Two triangles are similar, with corresponding sides in the ratio 2 : 5. If one side of the smaller triangle is 4, what is the length of the corresponding side in the larger triangle?",
+    "choices": [
+      "8",
+      "10",
+      "12.5",
+      "20"
+    ],
+    "answer": "B",
+    "hint": "Similar triangles have proportional sides — set up a proportion.",
+    "explanation": "Set up: 2/5 = 4/x. Cross-multiply: 2x = 20 → x = 10.",
+    "steps": [
+      "Similar triangles have corresponding sides in equal ratio.",
+      "Set up the proportion: 2/5 = 4/x.",
+      "Cross-multiply: 2x = 20.",
+      "Solve: x = 10."
+    ]
+  },
+  {
+    "id": "pmG20",
+    "section": "Math",
+    "category": "Geometry & Trig",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "What is the value of sin(30°) + cos(60°)?",
+    "choices": [
+      "1/2",
+      "√2/2",
+      "1",
+      "√3"
+    ],
+    "answer": "C",
+    "hint": "Memorize the 30-60-90 side ratios (1 : √3 : 2) and the resulting trig values.",
+    "explanation": "sin(30°) = 1/2 and cos(60°) = 1/2 (from the 30-60-90 triangle). Sum = 1/2 + 1/2 = 1.",
+    "steps": [
+      "From the 30-60-90 triangle (sides 1, √3, 2): sin(30°) = opposite/hypotenuse = 1/2.",
+      "For cos(60°): cos = adjacent/hypotenuse of the 60° angle = 1/2.",
+      "Add: 1/2 + 1/2 = 1.  (Also follows from cos(60°) = sin(90°−60°) = sin(30°).)"
+    ]
+  },
+  {
+    "id": "pmW08",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which sentence uses 'who' or 'whom' correctly?",
+    "choices": [
+      "The candidate whom won the debate was interviewed on television.",
+      "The candidate who won the debate was interviewed on television.",
+      "The candidate whom the voters preferred won the debate.",
+      "Both B and C are correct."
+    ],
+    "answer": "D",
+    "hint": "Substitute 'he' or 'him.' If 'he' fits → who; if 'him' fits → whom.",
+    "explanation": "(B): 'who won' — 'he won' works → 'who' is right. (C): 'the voters preferred him' works → 'whom' is right. (A) uses 'whom' as a subject, which is wrong.",
+    "steps": [
+      "Test with substitution: try 'he/she' (for 'who') and 'him/her' (for 'whom').",
+      "(A) 'the candidate ___ won the debate' → 'he won' → should be 'who,' not 'whom.' Wrong.",
+      "(B) 'the candidate ___ won' → 'he won' → 'who' is correct. ✓",
+      "(C) 'the voters preferred ___' → 'preferred him' → 'whom' is correct. ✓",
+      "Both B and C are correct → answer is D."
+    ]
+  },
+  {
+    "id": "pmW09",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which sentence uses the apostrophe correctly?",
+    "choices": [
+      "The dog wagged it's tail happily.",
+      "The dog wagged its tail happily.",
+      "Its been raining all day.",
+      "The company revised it's policy last week."
+    ],
+    "answer": "B",
+    "hint": "'It's' means 'it is' or 'it has.' 'Its' (no apostrophe) is possessive.",
+    "explanation": "Only (B) uses the possessive 'its' correctly. (A), (C), and (D) either add an apostrophe to the possessive or drop one where 'it is/has' is meant.",
+    "steps": [
+      "Test by substituting 'it is' or 'it has.'",
+      "(A) 'the dog wagged it is tail' — nonsense. So it should be possessive: 'its.' Wrong.",
+      "(B) 'the dog wagged its tail' — possessive, no apostrophe. Correct. ✓",
+      "(C) 'It has been raining' works — should be 'It's,' not 'Its.' Wrong.",
+      "(D) same test fails — should be 'its policy.' Wrong."
+    ]
+  },
+  {
+    "id": "pmW10",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "Which sentence uses correct comparison?",
+    "choices": [
+      "The population of Chicago is larger than Detroit.",
+      "The population of Chicago is larger than that of Detroit.",
+      "Chicago is larger than Detroit's population.",
+      "Detroit's population is smaller than Chicago."
+    ],
+    "answer": "B",
+    "hint": "You must compare like things — population to population, city to city.",
+    "explanation": "(A), (C), (D) all compare a population to a city (or a city to a population). Only (B) correctly compares populations by using 'that of Detroit' to stand in for 'Detroit's population.'",
+    "steps": [
+      "Identify what's on each side of 'than' — the two things being compared.",
+      "(A) 'population of Chicago' vs 'Detroit' — a population vs a city. Faulty.",
+      "(B) 'population of Chicago' vs 'that of Detroit' — population vs population. ✓",
+      "(C) and (D) also mix cities with populations."
+    ]
+  },
+  {
+    "id": "pmW11",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which sentence uses the correct verb form?",
+    "choices": [
+      "By the time we arrived, the movie had began.",
+      "By the time we arrived, the movie had began already.",
+      "By the time we arrived, the movie had begun.",
+      "By the time we arrived, the movie began."
+    ],
+    "answer": "C",
+    "hint": "'Had' requires the past participle form. Begin → began → begun.",
+    "explanation": "The verb 'begin' has three principal parts: begin / began / begun. 'Had' pairs with the past participle 'begun.' (D) drops the past-perfect meaning (an action completed BEFORE another past action).",
+    "steps": [
+      "The 'had ___' construction (past perfect) always takes the past participle.",
+      "Principal parts: begin (present), began (simple past), begun (past participle).",
+      "'Had begun' is correct.  (Same pattern: sing/sang/sung, ring/rang/rung.)"
+    ]
+  },
+  {
+    "id": "pmW12",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which sentence is correctly worded and punctuated?",
+    "choices": [
+      "The book that I borrowed is due tomorrow.",
+      "The book, that I borrowed, is due tomorrow.",
+      "The book which I borrowed is due tomorrow.",
+      "The book, which I borrowed is due tomorrow."
+    ],
+    "answer": "A",
+    "hint": "'That' introduces essential info (no commas); 'which' introduces extra info (commas on both sides).",
+    "explanation": "'That I borrowed' specifies WHICH book — essential info. Essential clauses use 'that' with no commas. 'Which' would need commas on both sides, and (D) only has one.",
+    "steps": [
+      "Determine whether the clause is essential to identifying the noun.",
+      "'That I borrowed' tells us which specific book — essential (restrictive).",
+      "Essential clauses use 'that' and no commas.",
+      "Non-essential clauses use 'which' with commas on BOTH sides."
+    ]
+  },
+  {
+    "id": "pmW13",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "Which version is the most concise while retaining the meaning?",
+    "choices": [
+      "Due to the fact that the deadline was extended, we finished on time.",
+      "Because the deadline was extended, we finished on time.",
+      "In view of the fact that the deadline was extended, we finished on time.",
+      "Owing to the extension of the deadline that was granted, we finished on time."
+    ],
+    "answer": "B",
+    "hint": "When choices differ only in wordiness and all mean the same thing, pick the shortest correct one.",
+    "explanation": "All four convey the same meaning. 'Because' is the most concise; 'due to the fact that' and 'in view of the fact that' are wordy versions of it.",
+    "steps": [
+      "Confirm all choices mean the same thing.",
+      "Compare their word counts.",
+      "'Because' (1 word) beats 'due to the fact that' (5 words) and 'in view of the fact that' (6 words).",
+      "The SAT nearly always rewards concision when the meaning is preserved."
+    ]
+  },
+  {
+    "id": "pmW14",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "q": "Which sentence uses the correct verb form for a hypothetical situation?",
+    "choices": [
+      "If I was rich, I would travel the world.",
+      "If I were rich, I would travel the world.",
+      "If I am rich, I would travel the world.",
+      "If I would be rich, I would travel the world."
+    ],
+    "answer": "B",
+    "hint": "Hypothetical 'if' clauses use the subjunctive — 'were,' not 'was.'",
+    "explanation": "Contrary-to-fact 'if' clauses take the subjunctive mood: 'were,' regardless of subject. 'If I were rich' — I am not actually rich.",
+    "steps": [
+      "Check whether the 'if' clause is HYPOTHETICAL (contrary to fact) or POSSIBLE.",
+      "'If I were rich, I would…' — hypothetical (I'm not rich).",
+      "Hypothetical 'if' clauses take 'were,' not 'was,' even with I/he/she/it.",
+      "'If I were you' is a familiar example of the same rule."
+    ]
+  },
+  {
+    "id": "pmW15",
+    "section": "Reading & Writing",
+    "category": "Grammar",
+    "difficulty": "hard",
+    "type": "mcq",
+    "q": "Which sentence is grammatically correct?",
+    "choices": [
+      "My brother he is a doctor.",
+      "My brother, he is a doctor.",
+      "My brother is a doctor.",
+      "He, my brother, is a doctor."
+    ],
+    "answer": "C",
+    "hint": "Don't follow the subject noun with a pronoun that repeats it.",
+    "explanation": "The subject ('My brother') is already named — adding 'he' is a redundant pronoun. (D) is technically grammatical but stylistically awkward and not the SAT's preferred form.",
+    "steps": [
+      "Find the subject of the main clause.",
+      "If the subject is already a specific noun, don't add a pronoun that restates it.",
+      "'My brother he is' is wrong — pick 'My brother is.'"
+    ]
+  },
+  {
+    "id": "pmC01",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "medium",
+    "type": "mcq",
+    "passage": "Recent studies have shown that certain species of deep-sea bacteria can survive under pressures exceeding 1,000 atmospheres. These bacteria produce unique enzymes that maintain their structure at such extremes — enzymes that quickly denature when brought to sea-level pressure. Researchers hope to isolate these enzymes for industrial applications, but doing so requires developing new preservation techniques.",
+    "q": "Which of the following can be most reasonably inferred from the passage?",
+    "choices": [
+      "All deep-sea bacteria produce enzymes usable in industry.",
+      "The enzymes' commercial use depends on solving a pressure-preservation problem.",
+      "Deep-sea bacteria will replace surface bacteria in most industries.",
+      "The enzymes are already being manufactured for consumer products."
+    ],
+    "answer": "B",
+    "hint": "An inference must stay within what the passage explicitly supports. Reject anything the passage doesn't say.",
+    "explanation": "The passage says researchers 'hope to isolate these enzymes' but 'doing so requires developing new preservation techniques.' That directly implies (B). (A) overreaches ('all'); (C) is unsupported; (D) contradicts the passage.",
+    "steps": [
+      "Find the passage's linkage: enzymes denature at sea-level pressure, so commercial use needs a preservation solution.",
+      "Match choices back to that linkage.",
+      "(B) restates the linkage precisely.",
+      "Eliminate the too-strong ('all,' 'replace most'), speculative ('will'), and directly contradicted ('already… manufactured') choices."
+    ]
+  },
+  {
+    "id": "pmC02",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "medium",
+    "type": "mcq",
+    "passage": "The bicycle revolutionized personal transportation in the late 19th century. Prior to its widespread adoption, workers were largely bound to jobs within walking distance of their homes. The bicycle expanded that radius dramatically. Consequently, some historians credit the bicycle with contributing to social mobility and the loosening of class-based residential patterns in industrial cities.",
+    "q": "What is the primary purpose of the passage's final sentence ('Consequently, some historians credit…')?",
+    "choices": [
+      "To identify a specific inventor of the bicycle.",
+      "To draw a broader social-historical implication of the bicycle's spread.",
+      "To argue that bicycles were the sole cause of urban change.",
+      "To describe the mechanics of how bicycles work."
+    ],
+    "answer": "B",
+    "hint": "Ask what JOB the sentence does — its function — not what it says.",
+    "explanation": "The sentence begins with 'Consequently' (signaling a conclusion) and cites historians drawing a wider social claim. That's an implication being drawn. (A) and (D) miss the topic; (C) is too strong ('sole cause').",
+    "steps": [
+      "Identify the sentence's connector: 'Consequently' signals a conclusion drawn from evidence.",
+      "The conclusion is a broad social claim (mobility, class patterns).",
+      "The purpose is to draw a broader implication — matches (B).",
+      "Watch out for (C) — 'sole cause' overreaches ('some historians credit' is hedged)."
+    ]
+  },
+  {
+    "id": "pmC03",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "hard",
+    "type": "mcq",
+    "passage": "Text 1: Advocates of remote work point to productivity gains, citing studies where teams working from home outperformed office-based counterparts on measurable output. Reduced commutes and fewer interruptions, they argue, account for the difference.\n\nText 2: Critics of remote work counter that measurable output tells only part of the story. Long-term innovation, they claim, depends on informal collaboration that is far more likely to occur in shared physical space than through scheduled video calls.",
+    "q": "How would the author of Text 2 most likely respond to the argument in Text 1?",
+    "choices": [
+      "By denying that any productivity gains have occurred.",
+      "By arguing that short-term output measures may miss longer-term costs.",
+      "By agreeing entirely with the productivity claim.",
+      "By claiming that all innovation happens in offices."
+    ],
+    "answer": "B",
+    "hint": "Cross-text answers usually qualify or extend — rarely full rejection. Watch for extreme words in the choices.",
+    "explanation": "Text 2 doesn't dispute the productivity claim ('measurable output tells only part of the story') — it points to a longer-term cost (innovation). That's exactly (B). (A) is too strong; (D) contains 'all,' which overreaches.",
+    "steps": [
+      "State each author's core claim in one line.",
+      "Text 1: remote work boosts productivity (measurable output).",
+      "Text 2: those measures miss long-term innovation costs — a qualification, not a rejection.",
+      "(B) names that qualification. (A) and (D) contain extreme words ('any,' 'all') that overshoot Text 2's actual argument."
+    ]
+  },
+  {
+    "id": "pmC04",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "medium",
+    "type": "mcq",
+    "passage": "The novelist's later works are marked by a certain sobriety absent from her earlier fiction. Where her first novels indulged in ornate metaphor and lavish description, her final books strip away decoration, presenting scenes with almost documentary restraint.",
+    "q": "As used in the passage, 'sobriety' most nearly means:",
+    "choices": [
+      "drunkenness",
+      "restraint",
+      "sadness",
+      "boredom"
+    ],
+    "answer": "B",
+    "hint": "Vocabulary-in-context clues sit in the passage itself. Look for synonyms or contrasts.",
+    "explanation": "The passage explicitly contrasts 'ornate metaphor and lavish description' with 'strip away decoration' and 'documentary restraint.' 'Sobriety' here means restraint — a seriousness of style — not literal soberness.",
+    "steps": [
+      "Identify the contrasts and synonyms in the passage.",
+      "'Sobriety' is contrasted with 'ornate' and 'lavish,' and matched with 'strip away decoration' and 'documentary restraint.'",
+      "The best synonym is 'restraint.'",
+      "The common meaning ('drunkenness/soberness') is a distractor — always let the passage guide the definition."
+    ]
+  },
+  {
+    "id": "pmC05",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "hard",
+    "type": "mcq",
+    "passage": "Eleanor stood at the window, watching the last of the day's light fade behind the ridge. Behind her, the house was silent — the family had gone to bed hours ago. She had been meaning to write a letter, to explain herself, but the words never came. Perhaps, she thought, they would never come. Perhaps some things simply had to remain unsaid.",
+    "q": "The passage primarily establishes:",
+    "choices": [
+      "Eleanor's inability to articulate something she wishes to express.",
+      "A description of the physical setting of the house.",
+      "A dispute between family members.",
+      "Eleanor's resentment toward her family."
+    ],
+    "answer": "A",
+    "hint": "Central-idea questions favor the theme that spans the whole passage, not one detail.",
+    "explanation": "Every sentence after the first involves Eleanor trying but failing to find words: 'she had been meaning to write… the words never came… perhaps they would never come.' That IS the passage's center. (B), (C), (D) are either secondary or unsupported.",
+    "steps": [
+      "Find the through-line — the theme every sentence contributes to.",
+      "Sentences 2–5 all concern words Eleanor cannot say.",
+      "Sentence 1 (setting) is scaffolding for that central idea, not the point itself.",
+      "(A) names the central idea; the others focus on details or invent tension not in the text."
+    ]
+  },
+  {
+    "id": "pmC06",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "medium",
+    "type": "mcq",
+    "passage": "A 2023 city study reported that after installation of new bike lanes on Main Street, average vehicle speeds dropped by 8 mph, while pedestrian injuries fell by 40% over the following year. Cyclist commuting on the corridor increased by 60%. Traffic engineers noted, however, that overall vehicle throughput remained roughly unchanged.",
+    "q": "Which conclusion is most directly supported by the study?",
+    "choices": [
+      "The bike lanes eliminated pedestrian injuries.",
+      "The bike lanes reduced vehicle throughput on Main Street.",
+      "The bike lanes were associated with slower traffic and fewer pedestrian injuries without reducing vehicle throughput.",
+      "The bike lanes made cyclists the majority commuters on Main Street."
+    ],
+    "answer": "C",
+    "hint": "Match the answer at the EXACT level of the data — no stronger, no weaker.",
+    "explanation": "The passage states each of (C)'s claims: speeds fell, injuries fell 40%, throughput 'remained roughly unchanged.' (A) says 'eliminated' but the drop was 40% — too strong. (B) contradicts the passage. (D) is unsupported (60% increase ≠ majority).",
+    "steps": [
+      "Underline what the study actually reports: slower speeds, 40% fewer injuries, more cyclists, unchanged throughput.",
+      "Compare each choice to those exact claims.",
+      "(A) 'eliminated' overstates 40%.",
+      "(B) contradicts 'unchanged throughput.'",
+      "(D) invents a majority claim.",
+      "(C) restates the study at its stated level — the correct level of confidence."
+    ]
+  },
+  {
+    "id": "pmC07",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "hard",
+    "type": "mcq",
+    "passage": "The construction of the transcontinental railroad in the 1860s was a remarkable feat of engineering, but its labor history is often overlooked. Chinese immigrant workers formed the backbone of the western crew, laying track through the treacherous terrain of the Sierra Nevada. Despite their essential contributions, these workers were paid substantially less than their white counterparts and were largely excluded from commemorations of the railroad's completion.",
+    "q": "Which statement is most directly supported by the passage?",
+    "choices": [
+      "Chinese workers were the only laborers on the western portion of the railroad.",
+      "The passage frames the workers' contributions as essential but historically underrecognized.",
+      "The Sierra Nevada was easy to build through.",
+      "Commemorations of the railroad's completion included representatives of all worker groups."
+    ],
+    "answer": "B",
+    "hint": "On inference questions, watch for choices that contradict specific words in the passage.",
+    "explanation": "The passage calls the contributions 'essential' and notes exclusion from commemorations — precisely (B). (A) is too strong ('only'); (C) contradicts 'treacherous'; (D) contradicts 'largely excluded.'",
+    "steps": [
+      "Identify the passage's framing: essential contributions + historically overlooked/excluded.",
+      "Check each choice against the passage's exact wording.",
+      "(A) 'the only' overreaches — the passage says 'backbone,' not 'only.'",
+      "(C) directly contradicts 'treacherous.'",
+      "(D) directly contradicts 'largely excluded.'",
+      "(B) is the accurate framing."
+    ]
+  },
+  {
+    "id": "pmC08",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "medium",
+    "type": "mcq",
+    "passage": "The recent surge in interest in classical philology, one is tempted to say, is entirely welcome. Yet even the most enthusiastic revival has its limits: not every long-neglected work merits reintroduction to modern readers, and scholars would do well to distinguish between recovery and mere resurrection for its own sake.",
+    "q": "The author's attitude toward the revival of interest in classical philology is best described as:",
+    "choices": [
+      "unreservedly enthusiastic",
+      "qualified approval",
+      "sharply hostile",
+      "completely indifferent"
+    ],
+    "answer": "B",
+    "hint": "'Yet,' 'however,' and 'but' often signal the tone is more nuanced than a single-word choice suggests.",
+    "explanation": "The author calls the revival 'entirely welcome' (positive), then adds 'Yet even the most enthusiastic revival has its limits' (a caveat). That's qualified approval. (A) misses the caveat; (C) and (D) miss the initial positivity.",
+    "steps": [
+      "Note the positive statements: 'entirely welcome.'",
+      "Note the reservations: 'Yet… limits,' 'distinguish… recovery from mere resurrection.'",
+      "The tone combines both — qualified approval, not full enthusiasm or hostility.",
+      "(B) is the only choice that reflects the both-sides tone."
+    ]
+  },
+  {
+    "id": "pmC09",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "hard",
+    "type": "mcq",
+    "passage": "A biologist hypothesized that a certain fish species could adapt to warming ocean temperatures within a few generations. To test this, she raised the fish for four generations in progressively warmer water and measured their survival rate.",
+    "q": "Which finding would most strongly support the hypothesis?",
+    "choices": [
+      "The fish in the first generation showed no change in survival rate.",
+      "By the fourth generation, survival rates in warm water approached those of the original population in cool water.",
+      "The fish grew larger over the four generations.",
+      "The biologist observed the fish for four years total."
+    ],
+    "answer": "B",
+    "hint": "The right finding must match the specific outcome the hypothesis predicts (adaptation in a few generations).",
+    "explanation": "The hypothesis predicts adaptation within a few generations. (B) shows exactly that — after four generations, survival in warm water recovers to the original baseline. (A) shows no adaptation early (not disconfirming, but not supportive alone); (C) and (D) don't address adaptation or survival.",
+    "steps": [
+      "Restate the hypothesis in your own words: the fish adapt (survive well) in warm water within a few generations.",
+      "Ask what finding would directly demonstrate that.",
+      "(B) shows survival recovering by generation 4 — direct evidence of adaptation.",
+      "The other choices either don't address survival or don't address adaptation."
+    ]
+  },
+  {
+    "id": "pmC10",
+    "section": "Reading & Writing",
+    "category": "Reading Comprehension",
+    "difficulty": "hard",
+    "type": "mcq",
+    "passage": "Text 1: Rapid urbanization has been associated with substantial economic gains for developing nations. Cities offer denser labor markets, faster diffusion of technology, and greater access to healthcare and education than rural regions.\n\nText 2: Yet the benefits of urbanization are not evenly distributed. Migrants to fast-growing cities often live in informal settlements with limited services, and studies have shown that health outcomes in such settlements can be worse than in the villages migrants left.",
+    "q": "How would the author of Text 2 most likely characterize the argument in Text 1?",
+    "choices": [
+      "As entirely wrong.",
+      "As overlooking important distributional inequities.",
+      "As completely correct on all points.",
+      "As ignoring the environmental costs of cities."
+    ],
+    "answer": "B",
+    "hint": "When Text 2 opens with 'Yet,' expect a qualifier answer (not full rejection or full agreement).",
+    "explanation": "Text 2 doesn't dispute the aggregate claim — it points out that benefits 'are not evenly distributed' and cites specific groups (informal-settlement migrants) who fare worse. That's (B). (D) mentions the environment, which Text 2 doesn't discuss.",
+    "steps": [
+      "State each author's position.",
+      "Text 1: urbanization brings aggregate benefits.",
+      "Text 2: those benefits are unevenly distributed; some migrants fare worse.",
+      "Text 2 isn't rejecting or fully agreeing — it's qualifying with a distributional critique.",
+      "(B) names that distributional critique. (D) invents a topic (environment) Text 2 never raises."
+    ]
+  },
+  {
+    "id": "zzTEST01",
+    "section": "Math",
+    "category": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "q": "DEPLOY TEST — please ignore",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "16"
+    ],
+    "answer": "A",
+    "explanation": "Subtract 3 from both sides: 4x = 16. Divide by 4: x = 4."
+  }
 ]
